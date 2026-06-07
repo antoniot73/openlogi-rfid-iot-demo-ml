@@ -1,0 +1,119 @@
+product_id,product_name,category_name,department_name,warehouse_id,stock_on_hand,avg_daily_demand,avg_active_day_demand,lead_time_days,safety_stock,reorder_point,recommended_order_qty,inventory_status
+1073,Pelican Sunstream 100 Kayak,Water Sports,Fan Shop,WH_CENTER,73,13.7533,15.4076,9,41,165,116,LOW_STOCK
+957,Diamondback Women's Serene Classic Comfort Bi,Camping & Hiking,Fan Shop,WH_CENTER,75,12.1819,13.6471,8,37,134,78,LOW_STOCK
+1004,Field & Stream Sportsman 16 Gun Fire Safe,Fishing,Fan Shop,WH_NORTH,172,15.3727,17.2217,9,46,184,40,LOW_STOCK
+642,Columbia Men's PFG Anchor Tough T-Shirt,Shop By Sport,Golf,WH_SOUTH,5,0.8234,3.7269,9,5,12,8,LOW_STOCK
+775,Clicgear 8.0 Shoe Brush,Golf Gloves,Outdoors,WH_ECOMMERCE,7,0.7879,3.6543,10,5,13,7,LOW_STOCK
+1354,DVDs,DVDs,Discs Shop,WH_SOUTH,5,0.4286,48.3,14,5,11,7,LOW_STOCK
+565,adidas Youth Germany Black/Red Away Match Soc,Girls' Apparel,Golf,WH_CENTER,8,0.8598,3.6566,9,5,13,6,LOW_STOCK
+728,LIJA Women's Eyelet Sleeveless Golf Polo,Golf Shoes,Outdoors,WH_NORTH,10,0.8394,3.5564,11,5,14,6,LOW_STOCK
+564,Nike Men's Deutschland Weltmeister Winners Bl,Girls' Apparel,Golf,WH_NORTH,8,0.8048,3.702,9,5,12,5,LOW_STOCK
+893,Team Golf Pittsburgh Steelers Putter Grip,Accessories,Outdoors,WH_CENTER,5,0.787,3.5911,6,5,10,5,LOW_STOCK
+1352,Industrial consumer electronics,Consumer Electronics,Technology,WH_NORTH,6,0.3824,53.875,14,5,10,5,LOW_STOCK
+1362,Fighting video games,Video Games,Discs Shop,WH_SOUTH,4,0.7436,55.8667,5,5,9,5,LOW_STOCK
+127,Stiga Master Series ST3100 Competition Indoor,Hockey,Fitness,WH_ECOMMERCE,2,0.024,2.0769,5,5,5,3,LOW_STOCK
+666,Merrell Men's All Out Flash Trail Running Sho,Men's Golf Clubs,Outdoors,WH_SOUTH,3,0.0754,1.2879,13,5,6,3,LOW_STOCK
+724,LIJA Women's Mid-Length Panel Golf Shorts,Golf Shoes,Outdoors,WH_NORTH,3,0.2014,3.9825,7,5,6,3,LOW_STOCK
+804,Glove It Women's Imperial Golf Glove,Golf Balls,Outdoors,WH_NORTH,13,0.835,3.6332,11,5,14,3,LOW_STOCK
+860,Bushnell Pro X7 Jolt Slope Rangefinder,Kids' Golf Clubs,Outdoors,WH_NORTH,2,0.0098,3.6667,12,5,5,3,LOW_STOCK
+886,Team Golf San Francisco Giants Putter Grip,Accessories,Outdoors,WH_SOUTH,6,0.7728,3.5844,5,5,9,3,LOW_STOCK
+897,Team Golf New England Patriots Putter Grip,Accessories,Outdoors,WH_CENTER,6,0.7303,3.4149,5,5,9,3,LOW_STOCK
+1347,Baby sweater,Baby,Apparel,WH_ECOMMERCE,4,0.1837,41.4,12,5,7,3,LOW_STOCK
+1348,CDs of rock,CDs,Discs Shop,WH_NORTH,3,0.2405,45.1667,6,5,6,3,LOW_STOCK
+35,adidas Brazuca 2014 Official Match Ball,Baseball & Softball,Fitness,WH_ECOMMERCE,3,0.0577,1.25,4,5,5,2,LOW_STOCK
+58,Diamondback Boys' Insight 24 Performance Hybr,Basketball,Fitness,WH_SOUTH,3,0.0257,2.0714,12,5,5,2,LOW_STOCK
+216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,Strength Training,Footwear,WH_NORTH,3,0.0568,1.28,8,5,5,2,LOW_STOCK
+258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,Boxing & MMA,Footwear,WH_SOUTH,4,0.1828,3.8148,7,5,6,2,LOW_STOCK
+311,Polar Loop Activity Tracker,Kids' Golf Clubs,Outdoors,WH_ECOMMERCE,3,0.0479,1.3846,5,5,5,2,LOW_STOCK
+359,Nike Men's Free TR 5.0 TB Training Shoe,As Seen on  TV!,Footwear,WH_ECOMMERCE,5,0.1828,3.8148,11,5,7,2,LOW_STOCK
+715,TaylorMade Women's RBZ SL Rescue,Golf Apparel,Outdoors,WH_ECOMMERCE,3,0.0603,1.2143,7,5,5,2,LOW_STOCK
+777,Bag Boy M330 Push Cart,Golf Gloves,Outdoors,WH_CENTER,4,0.1846,3.7143,7,5,6,2,LOW_STOCK
+858,GolfBuddy VT3 GPS Watch,Kids' Golf Clubs,Outdoors,WH_SOUTH,3,0.0524,1.1346,10,5,6,2,LOW_STOCK
+203,GoPro HERO3+ Black Edition Camera,Strength Training,Footwear,WH_ECOMMERCE,4,0.0284,1.7778,11,5,5,1,LOW_STOCK
+249,Under Armour Women's Micro G Skulpt Running S,Boxing & MMA,Footwear,WH_CENTER,13,0.7516,3.589,11,5,13,1,LOW_STOCK
+276,Under Armour Women's Ignite Slide,Electronics,Footwear,WH_NORTH,7,0.8154,3.751,4,5,8,1,LOW_STOCK
+306,Polar FT4 Heart Rate Monitor,Kids' Golf Clubs,Outdoors,WH_SOUTH,6,0.1739,4.1702,12,5,7,1,LOW_STOCK
+646,Merrell Women's Grassbow Sport Hiking Shoe,Men's Golf Clubs,Outdoors,WH_SOUTH,5,0.1837,3.569,7,5,6,1,LOW_STOCK
+652,Merrell Women's Grassbow Sport Waterproof Hik,Men's Golf Clubs,Outdoors,WH_NORTH,4,0.0515,1.2083,14,5,6,1,LOW_STOCK
+821,Titleist Pro V1 High Numbers Personalized Gol,Electronics,Outdoors,WH_CENTER,13,0.7551,3.404,11,5,13,1,LOW_STOCK
+1359,Adult dog supplies,Pet Supplies,Pet Shop,WH_ECOMMERCE,7,0.4366,54.6667,6,5,8,1,LOW_STOCK
+1360,Smart watch,Sporting Goods,Fitness,WH_NORTH,7,0.3168,44.625,10,5,8,1,LOW_STOCK
+60,SOLE E25 Elliptical,Basketball,Fitness,WH_NORTH,5,0.0089,3.3333,13,5,5,0,LOW_STOCK
+295,Fitbit The One Wireless Activity & Sleep Trac,Kids' Golf Clubs,Outdoors,WH_ECOMMERCE,6,0.1659,3.8958,10,5,7,0,LOW_STOCK
+671,Cleveland Golf Collegiate My Custom Wedge 588,Women's Golf Clubs,Outdoors,WH_ECOMMERCE,5,0.0577,1.2037,13,5,6,0,LOW_STOCK
+771,Clicgear Rovic Cooler Bag,Golf Gloves,Outdoors,WH_ECOMMERCE,8,0.7693,3.5388,4,5,8,0,LOW_STOCK
+24,Elevation Training Mask 2.0,Soccer,Fitness,WH_NORTH,15,0.205,4.125,12,5,7,0,NORMAL
+37,adidas Kids' F5 Messi FG Soccer Cleat,Baseball & Softball,Fitness,WH_CENTER,29,0.693,3.3664,11,5,13,0,NORMAL
+44,adidas Men's F10 Messi TRX FG Soccer Cleat,Baseball & Softball,Fitness,WH_NORTH,27,0.8332,3.5977,11,5,14,0,NORMAL
+61,Diamondback Girls' Clarity 24 Hybrid Bike 201,Basketball,Fitness,WH_CENTER,11,0.0248,1.75,8,5,5,0,NORMAL
+78,Nike Kids' Grade School KD VI Basketball Shoe,Lacrosse,Fitness,WH_SOUTH,14,0.165,3.3818,12,5,7,0,NORMAL
+116,Nike Men's Comfort 2 Slide,Tennis & Racquet,Fitness,WH_NORTH,18,0.8793,3.7116,8,5,12,0,NORMAL
+134,Nike Women's Legend V-Neck T-Shirt,Hockey,Fitness,WH_SOUTH,23,0.7107,3.3941,13,5,14,0,NORMAL
+135,Nike Dri-FIT Crew Sock 6 Pack,Hockey,Fitness,WH_ECOMMERCE,27,0.7835,3.4093,12,5,14,0,NORMAL
+172,Nike Women's Tempo Shorts,Cardio Equipment,Footwear,WH_NORTH,32,0.8048,3.4751,11,5,14,0,NORMAL
+191,Nike Men's Free 5.0+ Running Shoe,Cardio Equipment,Footwear,WH_ECOMMERCE,711,32.5466,36.4612,7,98,325,0,NORMAL
+226,Bowflex SelectTech 1090 Dumbbells,Fitness Accessories,Footwear,WH_SOUTH,8,0.0089,3.3333,3,5,5,0,NORMAL
+235,Under Armour Hustle Storm Medium Duffle Bag,Fitness Accessories,Footwear,WH_ECOMMERCE,36,0.7507,3.3571,14,5,16,0,NORMAL
+273,Under Armour Kids' Mercenary Slide,Electronics,Footwear,WH_CENTER,14,0.7054,3.6806,8,5,11,0,NORMAL
+282,Under Armour Women's Ignite PIP VI Slide,Electronics,Footwear,WH_SOUTH,27,0.7524,3.563,11,5,13,0,NORMAL
+303,Garmin Forerunner 910XT GPS Watch,Kids' Golf Clubs,Outdoors,WH_ECOMMERCE,11,0.0311,2.0588,11,5,5,0,NORMAL
+364,Total Gym 1400,Cleats,Apparel,WH_NORTH,10,0.0319,2.4,12,5,5,0,NORMAL
+365,Perfect Fitness Perfect Rip Deck,Cleats,Apparel,WH_CENTER,678,65.3931,73.2584,3,196,392,0,NORMAL
+403,Nike Men's CJ Elite 2 TD Football Cleat,Men's Footwear,Apparel,WH_ECOMMERCE,425,19.7391,22.1133,8,59,217,0,NORMAL
+502,Nike Men's Dri-FIT Victory Golf Polo,Women's Apparel,Golf,WH_SOUTH,1030,55.8616,62.5805,11,168,782,0,NORMAL
+567,adidas Men's Germany Black Crest Away Tee,Girls' Apparel,Golf,WH_ECOMMERCE,14,0.7622,3.535,8,5,11,0,NORMAL
+572,TYR Boys' Team Digi Jammer,Girls' Apparel,Golf,WH_NORTH,20,0.7808,3.4646,11,5,14,0,NORMAL
+607,Garmin Approach S3 Golf GPS Watch,Trade-In,Outdoors,WH_ECOMMERCE,8,0.0683,1.3509,3,5,5,0,NORMAL
+625,Nike Men's Kobe IX Elite Low Basketball Shoe,Shop By Sport,Golf,WH_CENTER,8,0.0559,1.1455,12,5,6,0,NORMAL
+677,TaylorMade White Smoke IN-12 Putter,Women's Golf Clubs,Outdoors,WH_CENTER,10,0.1713,4.1957,6,5,6,0,NORMAL
+691,MDGolf Pittsburgh Penguins Putter,Women's Golf Clubs,Outdoors,WH_ECOMMERCE,10,0.1287,3.2955,4,5,6,0,NORMAL
+703,Top Flite Women's 2014 XL Hybrid,Golf Apparel,Outdoors,WH_ECOMMERCE,20,0.787,3.4115,9,5,12,0,NORMAL
+705,Cleveland Golf Women's 588 RTX CB Satin Chrom,Golf Apparel,Outdoors,WH_CENTER,11,0.0621,1.25,7,5,5,0,NORMAL
+725,LIJA Women's Button Golf Dress,Golf Shoes,Outdoors,WH_CENTER,9,0.0674,1.2667,3,5,5,0,NORMAL
+730,LIJA Women's Argyle Golf Polo,Golf Shoes,Outdoors,WH_SOUTH,8,0.173,3.6111,8,5,6,0,NORMAL
+743,Ogio Race Golf Shoes,Golf Bags & Carts,Outdoors,WH_ECOMMERCE,10,0.0541,1.2449,14,5,6,0,NORMAL
+773,Titleist Small Wheeled Travel Cover,Golf Gloves,Outdoors,WH_CENTER,8,0.0479,1.3171,7,5,5,0,NORMAL
+778,Bag Boy Beverage Holder,Golf Gloves,Outdoors,WH_SOUTH,22,0.7498,3.6266,7,5,10,0,NORMAL
+786,TaylorMade 2014 Purelite Stand Bag,Golf Gloves,Outdoors,WH_SOUTH,10,0.0577,1.2264,14,5,6,0,NORMAL
+792,Hirzl Men's Hybrid Golf Glove,Golf Balls,Outdoors,WH_NORTH,26,0.7666,3.456,8,5,11,0,NORMAL
+793,Hirzl Women's Hybrid Golf Glove,Golf Balls,Outdoors,WH_CENTER,19,0.7879,3.5099,6,5,10,0,NORMAL
+810,Glove It Women's Mod Oval Golf Glove,Golf Balls,Outdoors,WH_SOUTH,15,0.7116,3.2735,3,5,7,0,NORMAL
+822,Titleist Pro V1x High Numbers Golf Balls,Electronics,Outdoors,WH_SOUTH,13,0.7098,3.5242,5,5,9,0,NORMAL
+823,Titleist Pro V1x High Numbers Personalized Go,Electronics,Outdoors,WH_ECOMMERCE,25,0.8057,3.5748,9,5,12,0,NORMAL
+825,Bridgestone e6 Straight Distance NFL Tennesse,Electronics,Outdoors,WH_CENTER,16,0.7143,3.6758,5,5,9,0,NORMAL
+835,Bridgestone e6 Straight Distance NFL Carolina,Electronics,Outdoors,WH_ECOMMERCE,23,0.8234,3.583,11,5,14,0,NORMAL
+845,Garmin Approach S4 Golf GPS Watch,Kids' Golf Clubs,Outdoors,WH_CENTER,8,0.0319,2.4,4,5,5,0,NORMAL
+885,Team Golf St. Louis Cardinals Putter Grip,Accessories,Outdoors,WH_CENTER,15,0.85,3.7569,7,5,11,0,NORMAL
+905,Team Golf Texas Longhorns Putter Grip,Accessories,Outdoors,WH_CENTER,29,0.7941,3.3902,10,5,13,0,NORMAL
+917,Glove It Women's Mod Oval 3-Zip Carry All Gol,Trade-In,Outdoors,WH_CENTER,19,0.8252,3.5907,9,5,12,0,NORMAL
+924,Glove It Urban Brick Golf Towel,Trade-In,Outdoors,WH_NORTH,22,0.7853,3.642,6,5,10,0,NORMAL
+926,Glove It Imperial Golf Towel,Trade-In,Outdoors,WH_SOUTH,10,0.8252,3.72,3,5,7,0,NORMAL
+977,ENO Atlas Hammock Straps,Hunting & Shooting,Fan Shop,WH_CENTER,21,0.8855,3.6963,12,5,16,0,NORMAL
+981,The North Face Women's Recon Backpack,Hunting & Shooting,Fan Shop,WH_CENTER,15,0.1606,3.9348,11,5,7,0,NORMAL
+982,insta-bed Neverflat Air Mattress,Hunting & Shooting,Fan Shop,WH_SOUTH,8,0.0532,1.2245,8,5,5,0,NORMAL
+1346,Sports Books,Books,Book Shop,WH_SOUTH,16,0.3594,45.0,7,5,8,0,NORMAL
+1349,Web Camera,Cameras,Technology,WH_CENTER,16,0.5253,59.2,9,5,10,0,NORMAL
+1350,Children's heaters,Children's Clothing,Apparel,WH_SOUTH,12,0.5785,54.3333,4,5,7,0,NORMAL
+1351,Dell Laptop,Computers,Technology,WH_ECOMMERCE,13,0.3922,55.25,6,5,7,0,NORMAL
+1353,Porcelain crafts,Crafts,Apparel,WH_CENTER,22,0.4295,53.7778,12,5,10,0,NORMAL
+1355,Lawn mower,Garden,Outdoors,WH_ECOMMERCE,10,0.4295,60.5,5,5,7,0,NORMAL
+1356,First aid kit,Health and Beauty,Health and Beauty,WH_NORTH,16,0.3212,45.25,9,5,8,0,NORMAL
+1357,Men's gala suit,Men's Clothing,Apparel,WH_CENTER,12,0.1846,52.0,7,5,6,0,NORMAL
+1358,Rock music,Music,Discs Shop,WH_SOUTH,23,0.3851,48.2222,14,5,10,0,NORMAL
+1361,Toys,Toys,Fan Shop,WH_CENTER,20,0.4694,48.0909,9,5,9,0,NORMAL
+1014,O'Brien Men's Neoprene Life Vest,Indoor/Outdoor Games,Fan Shop,WH_SOUTH,599,51.2893,57.4583,8,154,564,47,WATCH
+627,Under Armour Girls' Toddler Spine Surge Runni,Shop By Sport,Golf,WH_ECOMMERCE,198,28.1588,31.5457,4,84,197,21,WATCH
+906,Team Golf Tennessee Volunteers Putter Grip,Accessories,Outdoors,WH_SOUTH,17,0.8119,3.6024,14,5,16,1,WATCH
+19,Nike Men's Fingertrap Max Training Shoe,Soccer,Fitness,WH_ECOMMERCE,6,0.0568,1.1852,4,5,5,0,WATCH
+93,Under Armour Men's Tech II T-Shirt,Lacrosse,Fitness,WH_CENTER,15,0.7409,3.4221,10,5,12,0,WATCH
+208,SOLE E35 Elliptical,Strength Training,Footwear,WH_NORTH,6,0.0133,3.75,12,5,5,0,WATCH
+251,Brooks Women's Ghost 6 Running Shoe,Boxing & MMA,Footwear,WH_ECOMMERCE,9,0.1881,4.1569,13,5,7,0,WATCH
+278,Under Armour Men's Compression EV SL Slide,Electronics,Footwear,WH_SOUTH,14,0.7214,3.4596,9,5,11,0,WATCH
+305,Mio ALPHA Heart Rate Monitor/Sport Watch,Kids' Golf Clubs,Outdoors,WH_CENTER,6,0.0594,1.2182,8,5,5,0,WATCH
+647,Merrell Women's Siren Mid Waterproof Hiking B,Men's Golf Clubs,Outdoors,WH_ECOMMERCE,6,0.0621,1.1864,8,5,5,0,WATCH
+768,Titleist Club Glove Travel Cover,Golf Gloves,Outdoors,WH_NORTH,6,0.0302,1.8889,4,5,5,0,WATCH
+797,Hirzl Women's Soffft Flex Golf Glove,Golf Balls,Outdoors,WH_CENTER,12,0.7888,3.6584,6,5,10,0,WATCH
+818,Titleist Pro V1x Golf Balls,Electronics,Outdoors,WH_SOUTH,10,0.7657,3.5081,4,5,8,0,WATCH
+828,Bridgestone e6 Straight Distance NFL San Dieg,Electronics,Outdoors,WH_NORTH,14,0.8039,3.5669,8,5,11,0,WATCH
+1059,Pelican Maverick 100X Kayak,Water Sports,Fan Shop,WH_ECOMMERCE,6,0.0355,2.1053,9,5,5,0,WATCH
+1363,Summer dresses,Women's Clothing,Apparel,WH_ECOMMERCE,9,0.5768,59.0909,4,5,7,0,WATCH

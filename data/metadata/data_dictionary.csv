@@ -1,0 +1,31 @@
+column_name,description,source,privacy_level
+order_id,Identificador de pedido.,DataCo,non_sensitive
+order_item_id,Identificador de línea de pedido.,DataCo,non_sensitive
+order_date,Fecha y hora de creación de la orden.,DataCo,non_sensitive
+shipping_date,Fecha y hora de envío.,DataCo,non_sensitive
+customer_id_hash,Cliente anonimizado con SHA-256 truncado.,Derivado,anonymized
+customer_segment,Segmento de cliente.,DataCo,non_sensitive
+product_id,Identificador de producto usado como SKU base.,DataCo,non_sensitive
+product_name,Nombre del producto.,DataCo,non_sensitive
+category_id,Identificador de categoría.,DataCo,non_sensitive
+category_name,Nombre de categoría.,DataCo,non_sensitive
+department_id,Identificador de departamento.,DataCo,non_sensitive
+department_name,Nombre de departamento.,DataCo,non_sensitive
+quantity,Cantidad solicitada en la línea de pedido.,DataCo,non_sensitive
+sales,Venta bruta asociada a la línea.,DataCo,non_sensitive
+order_item_total,Venta neta o total de línea.,DataCo,non_sensitive
+profit,Utilidad de la orden/línea.,DataCo,non_sensitive
+shipping_mode,Modo de envío.,DataCo,non_sensitive
+delivery_status,Estado de entrega observado.,DataCo,non_sensitive
+late_delivery_risk,Indicador objetivo de riesgo de entrega tardía.,DataCo,non_sensitive
+order_status,Estado operativo de la orden.,DataCo,non_sensitive
+market,Mercado logístico.,DataCo,non_sensitive
+order_region,Región logística destino.,DataCo,non_sensitive
+order_country,País destino.,DataCo,non_sensitive
+order_city,Ciudad destino.,DataCo,non_sensitive
+days_shipping_real,Días reales de envío.,DataCo,non_sensitive
+days_shipping_scheduled,Días programados para el envío.,DataCo,non_sensitive
+order_date_day,Fecha calendario de la orden.,Derivado,non_sensitive
+order_month,Mes de la orden.,Derivado,non_sensitive
+order_day_of_week,Día de la semana de la orden.,Derivado,non_sensitive
+shipment_delay_delta,Diferencia entre días reales y programados.,Derivado,non_sensitive

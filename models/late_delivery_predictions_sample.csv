@@ -1,0 +1,501 @@
+shipping_mode,market,order_region,order_country,order_city,customer_segment,category_name,department_name,product_id,order_month,order_day_of_week,days_shipping_scheduled,quantity,sales,late_delivery_risk_real,late_delivery_risk_pred,late_delivery_risk_probability
+Standard Class,Europe,Northern Europe,Suecia,Estocolmo,Home Office,Fishing,Fan Shop,1004,2017-09,Saturday,4.0,1.0,399.980011,0,0,0.4837218692829383
+Same Day,Pacific Asia,West Asia,Turquía,Estambul,Consumer,Cleats,Apparel,365,2016-09,Tuesday,0.0,1.0,59.99000168,0,0,0.3326808093920261
+Standard Class,Europe,Southern Europe,España,Alicante,Consumer,Men's Footwear,Apparel,403,2015-07,Friday,4.0,1.0,129.9900055,0,0,0.32947696914701113
+Standard Class,Europe,Northern Europe,Suecia,Huddinge,Consumer,Fishing,Fan Shop,1004,2015-06,Sunday,4.0,1.0,399.980011,0,0,0.30197970658347706
+Second Class,Pacific Asia,South Asia,India,Visakhapatnam,Consumer,Fishing,Fan Shop,1004,2015-12,Thursday,2.0,1.0,399.980011,1,1,0.7463654009272946
+Standard Class,Europe,Western Europe,Francia,Argenteuil,Home Office,Cleats,Apparel,365,2015-06,Tuesday,4.0,2.0,119.9800034,0,0,0.3176211325032521
+Standard Class,Europe,Northern Europe,Reino Unido,London,Consumer,Shop By Sport,Golf,627,2015-07,Tuesday,4.0,4.0,159.9600067,1,0,0.34161970459971736
+Standard Class,Europe,Western Europe,Francia,Paris,Corporate,Women's Apparel,Golf,502,2017-07,Saturday,4.0,3.0,150.0,0,0,0.23872417444743815
+Second Class,Africa,North Africa,Egipto,Alexandria,Home Office,Camping & Hiking,Fan Shop,957,2016-09,Sunday,2.0,1.0,299.980011,1,1,0.6700048473614361
+Standard Class,LATAM,Central America,Nicaragua,Managua,Corporate,Women's Apparel,Golf,502,2015-02,Sunday,4.0,5.0,250.0,1,0,0.374842277985192
+Standard Class,USCA,East of USA,Estados Unidos,New York City,Corporate,Camping & Hiking,Fan Shop,957,2016-04,Sunday,4.0,1.0,299.980011,0,0,0.42127017659304167
+Standard Class,USCA,West of USA,Estados Unidos,West Jordan,Corporate,Fishing,Fan Shop,1004,2016-05,Sunday,4.0,1.0,399.980011,0,0,0.3226835307772716
+Standard Class,Pacific Asia,Eastern Asia,Corea del Sur,Changwon,Consumer,Shop By Sport,Golf,627,2015-11,Tuesday,4.0,5.0,199.9499969,1,0,0.4236928146363414
+First Class,USCA,East of USA,Estados Unidos,New York City,Corporate,Girls' Apparel,Golf,565,2016-05,Monday,1.0,2.0,140.0,1,1,0.9350333858103966
+Standard Class,Pacific Asia,South Asia,India,Salem,Corporate,Fishing,Fan Shop,1004,2015-11,Tuesday,4.0,1.0,399.980011,1,0,0.35527877198474833
+Standard Class,Europe,Southern Europe,Italia,Verona,Corporate,Camping & Hiking,Fan Shop,957,2015-06,Monday,4.0,1.0,299.980011,0,0,0.36974960327599515
+Standard Class,Europe,Northern Europe,Reino Unido,London,Consumer,Cleats,Apparel,365,2017-08,Wednesday,4.0,4.0,239.9600067,0,0,0.3543585090682587
+Standard Class,LATAM,Central America,Nicaragua,Managua,Consumer,Cardio Equipment,Footwear,191,2015-04,Thursday,4.0,5.0,499.9500122,1,0,0.3802217470711708
+Standard Class,Pacific Asia,Central Asia,Kazajistán,Astaná,Corporate,Women's Apparel,Golf,502,2016-09,Tuesday,4.0,3.0,150.0,0,0,0.27853242490664454
+Standard Class,LATAM,Central America,Honduras,Tegucigalpa,Consumer,Cleats,Apparel,365,2017-03,Friday,4.0,4.0,239.9600067,0,0,0.3935475063788083
+Same Day,USCA,West of USA,Estados Unidos,Phoenix,Corporate,Trade-In,Outdoors,924,2016-05,Monday,0.0,1.0,15.98999977,0,0,0.4571147633472186
+Standard Class,LATAM,South America,Argentina,Buenos Aires,Consumer,Cardio Equipment,Footwear,191,2017-06,Friday,4.0,1.0,99.98999786,1,0,0.3281968829451129
+First Class,LATAM,Central America,Guatemala,Quetzaltenango,Consumer,Women's Apparel,Golf,502,2015-03,Tuesday,1.0,4.0,200.0,1,1,0.9527518217698872
+Standard Class,LATAM,South America,Brasil,Sapucaia do Sul,Consumer,Fishing,Fan Shop,1004,2017-02,Saturday,4.0,1.0,399.980011,0,0,0.34639676760190125
+Standard Class,USCA,East of USA,Estados Unidos,Philadelphia,Consumer,Shop By Sport,Golf,627,2016-07,Thursday,4.0,1.0,39.99000168,1,0,0.297785167477041
+Standard Class,Pacific Asia,Oceania,Australia,Cairns,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-11,Sunday,4.0,2.0,99.95999908,0,0,0.32395248744512445
+Standard Class,Europe,Southern Europe,España,Valencia,Home Office,Fishing,Fan Shop,1004,2017-09,Tuesday,4.0,1.0,399.980011,1,0,0.37012377284361925
+Standard Class,Europe,Western Europe,Alemania,Wuppertal,Corporate,Consumer Electronics,Technology,1352,2017-11,Thursday,4.0,1.0,252.8800049,0,0,0.3506993253063257
+Second Class,Europe,Western Europe,Austria,Viena,Home Office,Cleats,Apparel,365,2015-10,Friday,2.0,1.0,59.99000168,1,1,0.7424535030548441
+Standard Class,Europe,Western Europe,Francia,Calais,Corporate,Women's Apparel,Golf,502,2015-10,Tuesday,4.0,1.0,50.0,1,0,0.3552495282292787
+First Class,LATAM,Central America,México,Azcapotzalco,Corporate,Camping & Hiking,Fan Shop,957,2017-06,Monday,1.0,1.0,299.980011,1,1,0.941090024096427
+Second Class,Europe,Northern Europe,Reino Unido,Cheltenham,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-08,Saturday,2.0,1.0,49.97999954,1,1,0.695121675299953
+Standard Class,LATAM,Central America,El Salvador,San Salvador,Consumer,Cardio Equipment,Footwear,191,2017-04,Sunday,4.0,1.0,99.98999786,0,0,0.32875262016817347
+First Class,Pacific Asia,Oceania,Australia,Perth,Consumer,Books,Book Shop,1346,2017-12,Saturday,1.0,1.0,31.07999992,1,1,0.9590959259676733
+First Class,Africa,Central Africa,Angola,Huambo,Home Office,Men's Footwear,Apparel,403,2016-11,Friday,1.0,1.0,129.9900055,1,1,0.9485438828099516
+Standard Class,Africa,North Africa,Egipto,Alexandria,Home Office,Camping & Hiking,Fan Shop,957,2016-08,Monday,4.0,1.0,299.980011,0,0,0.2726923352573722
+Standard Class,LATAM,South America,Brasil,Fortaleza,Corporate,Water Sports,Fan Shop,1073,2015-01,Tuesday,4.0,1.0,199.9900055,0,0,0.3074114947688659
+Standard Class,LATAM,Caribbean,República Dominicana,Santo Domingo,Corporate,Women's Apparel,Golf,502,2017-03,Friday,4.0,2.0,100.0,0,0,0.37504019688011553
+Standard Class,Pacific Asia,West Asia,Turquía,Ceyhan,Corporate,Camping & Hiking,Fan Shop,957,2017-01,Sunday,4.0,1.0,299.980011,1,0,0.3524093524820253
+Standard Class,LATAM,Central America,Guatemala,Mixco,Consumer,Cleats,Apparel,365,2015-05,Friday,4.0,2.0,119.9800034,0,0,0.3177047519637556
+Standard Class,LATAM,South America,Chile,Villa Alemana,Consumer,Camping & Hiking,Fan Shop,957,2015-01,Saturday,4.0,1.0,299.980011,0,0,0.38304536155297486
+Standard Class,LATAM,South America,Colombia,Cúcuta,Corporate,Cardio Equipment,Footwear,191,2017-06,Tuesday,4.0,3.0,299.9700012,0,0,0.3354635471451282
+Second Class,Europe,Western Europe,Francia,Tourcoing,Corporate,Fishing,Fan Shop,1004,2017-07,Sunday,2.0,1.0,399.980011,1,1,0.7485645644597693
+Second Class,Europe,Western Europe,Alemania,Berlín,Consumer,Men's Golf Clubs,Outdoors,646,2017-09,Tuesday,2.0,4.0,399.9599915,1,1,0.6619764077370306
+First Class,Europe,Western Europe,Francia,Courbevoie,Corporate,Men's Footwear,Apparel,403,2015-09,Tuesday,1.0,1.0,129.9900055,1,1,0.935410589585377
+Standard Class,Europe,Western Europe,Alemania,Hamburgo,Consumer,Men's Footwear,Apparel,403,2015-09,Saturday,4.0,1.0,129.9900055,0,0,0.3257203304273252
+Standard Class,LATAM,Central America,Honduras,El Progreso,Home Office,Women's Apparel,Golf,502,2017-01,Thursday,4.0,1.0,50.0,0,0,0.4286445399109647
+First Class,Africa,West Africa,Nigeria,Ugep,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-09,Friday,1.0,5.0,249.8999939,1,1,0.9226147081561299
+Standard Class,LATAM,Central America,México,Guadalajara,Consumer,Women's Apparel,Golf,502,2015-02,Wednesday,4.0,2.0,100.0,0,0,0.4133583739722342
+Standard Class,Europe,Western Europe,Francia,Lyon,Consumer,Water Sports,Fan Shop,1073,2017-07,Monday,4.0,1.0,199.9900055,0,0,0.22642965280023478
+Standard Class,Pacific Asia,Eastern Asia,China,Zhuhai,Corporate,Shop By Sport,Golf,627,2016-01,Wednesday,4.0,4.0,159.9600067,1,0,0.36538292438405356
+Standard Class,Africa,North Africa,Egipto,Cairo,Consumer,Shop By Sport,Golf,627,2016-10,Tuesday,4.0,5.0,199.9499969,0,0,0.3915348302820817
+First Class,Pacific Asia,Southeast Asia,Indonesia,Kendari,Corporate,Water Sports,Fan Shop,1073,2016-03,Monday,1.0,1.0,199.9900055,1,1,0.9340386067145416
+Standard Class,Europe,Western Europe,Alemania,Halle,Corporate,Cleats,Apparel,365,2017-09,Sunday,4.0,3.0,179.9700012,0,0,0.33351560069795
+Standard Class,Europe,Southern Europe,España,Barcelona,Corporate,Fishing,Fan Shop,1004,2015-07,Sunday,4.0,1.0,399.980011,1,0,0.2750263051744245
+Standard Class,Europe,Southern Europe,España,Vigo,Consumer,Women's Apparel,Golf,502,2015-09,Friday,4.0,3.0,150.0,0,0,0.3241104905698975
+Standard Class,Europe,Eastern Europe,Ucrania,Lviv,Home Office,Water Sports,Fan Shop,1073,2016-10,Thursday,4.0,1.0,199.9900055,1,0,0.3982335397052323
+Standard Class,LATAM,Central America,México,Puebla,Consumer,Shop By Sport,Golf,627,2017-02,Tuesday,4.0,2.0,79.98000336,1,0,0.34346885312678704
+Standard Class,Europe,Western Europe,Francia,Oyonnax,Consumer,Cleats,Apparel,365,2015-06,Friday,4.0,2.0,119.9800034,0,0,0.32906929391467576
+Second Class,LATAM,Caribbean,República Dominicana,La Romana,Corporate,Water Sports,Fan Shop,1073,2015-01,Monday,2.0,1.0,199.9900055,1,1,0.6581010518271636
+First Class,Pacific Asia,Oceania,Australia,Perth,Corporate,Video Games,Discs Shop,1362,2018-01,Monday,1.0,1.0,39.75,1,1,0.9569997601987971
+Standard Class,Europe,Eastern Europe,República Checa,Praga,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-10,Tuesday,4.0,4.0,199.9199982,1,0,0.4691794754079362
+First Class,USCA,West of USA,Estados Unidos,Seattle,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2016-06,Thursday,1.0,2.0,99.95999908,1,1,0.894578938704481
+Standard Class,Pacific Asia,South Asia,Irán,Kerman,Consumer,Golf Gloves,Outdoors,775,2016-12,Thursday,4.0,3.0,29.96999931,0,0,0.38400910464136234
+First Class,LATAM,Central America,México,Coyoacán,Consumer,Women's Apparel,Golf,502,2015-01,Saturday,1.0,2.0,100.0,1,1,0.926803732329091
+Standard Class,Pacific Asia,South Asia,India,Aligarh,Consumer,Toys,Fan Shop,1361,2018-01,Sunday,4.0,1.0,11.53999996,1,0,0.32132697442801406
+First Class,LATAM,South America,Brasil,Betim,Home Office,Electronics,Outdoors,828,2017-03,Saturday,1.0,4.0,127.9599991,1,1,0.9486418556490037
+Standard Class,Europe,Southern Europe,España,Valencia,Consumer,Camping & Hiking,Fan Shop,957,2015-10,Tuesday,4.0,1.0,299.980011,1,0,0.3814906436149133
+First Class,Europe,Western Europe,Alemania,Hamburgo,Consumer,Women's Apparel,Golf,502,2015-08,Wednesday,1.0,4.0,200.0,1,1,0.9437845827534697
+Standard Class,USCA,West of USA,Estados Unidos,San Diego,Home Office,Water Sports,Fan Shop,1073,2016-05,Friday,4.0,1.0,199.9900055,1,0,0.34127021709242483
+Second Class,Africa,West Africa,Nigeria,Kaduna,Corporate,Men's Footwear,Apparel,403,2016-10,Sunday,2.0,1.0,129.9900055,0,1,0.7249105551795263
+Standard Class,Pacific Asia,Oceania,Australia,Mackay,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-12,Thursday,4.0,4.0,199.9199982,1,0,0.29832587528010357
+Standard Class,Pacific Asia,Eastern Asia,Japón,Tokio,Home Office,Women's Apparel,Golf,502,2015-11,Friday,4.0,3.0,150.0,1,0,0.4208438052642147
+Standard Class,LATAM,Central America,Honduras,Tegucigalpa,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2017-04,Tuesday,4.0,4.0,199.9199982,0,0,0.3283585394607772
+Standard Class,Pacific Asia,Eastern Asia,China,Kunming,Consumer,Fishing,Fan Shop,1004,2016-02,Monday,4.0,1.0,399.980011,0,0,0.37999893910249566
+Second Class,USCA,US Center,Estados Unidos,Chicago,Corporate,Men's Footwear,Apparel,403,2016-08,Thursday,2.0,1.0,129.9900055,1,1,0.7407461877083914
+Second Class,Pacific Asia,Eastern Asia,China,Huizhou,Consumer,Men's Footwear,Apparel,403,2016-01,Tuesday,2.0,1.0,129.9900055,0,1,0.7246970836822078
+First Class,Pacific Asia,Eastern Asia,China,Chongqing,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-02,Monday,1.0,3.0,149.9400024,1,1,0.9017536028751174
+Second Class,LATAM,South America,Argentina,Córdoba,Corporate,Women's Apparel,Golf,502,2017-03,Monday,2.0,5.0,250.0,1,1,0.6668285326235792
+Second Class,Pacific Asia,South Asia,India,Mangalore,Home Office,Trade-In,Outdoors,924,2015-12,Tuesday,2.0,4.0,63.95999908,1,1,0.7525410208980287
+Standard Class,Africa,Southern Africa,SudAfrica,Pretoria,Corporate,Cardio Equipment,Footwear,191,2016-11,Friday,4.0,4.0,399.9599915,1,0,0.36842313799354726
+Second Class,Africa,West Africa,Nigeria,Lagos,Corporate,Men's Footwear,Apparel,403,2017-01,Tuesday,2.0,1.0,129.9900055,1,1,0.7163149478150694
+Second Class,Europe,Western Europe,Alemania,Castrop-Rauxel,Consumer,Men's Footwear,Apparel,403,2017-08,Saturday,2.0,1.0,129.9900055,0,1,0.7381494229829166
+Standard Class,Europe,Western Europe,Alemania,Berlín,Consumer,Women's Apparel,Golf,502,2015-10,Friday,4.0,3.0,150.0,0,0,0.3076808114415276
+Standard Class,LATAM,Caribbean,Cuba,Camagüey,Consumer,Women's Apparel,Golf,502,2017-02,Sunday,4.0,2.0,100.0,0,0,0.3558177759224321
+Second Class,LATAM,Central America,México,Orizaba,Corporate,Fishing,Fan Shop,1004,2015-01,Wednesday,2.0,1.0,399.980011,1,1,0.7419789438888726
+Second Class,LATAM,Central America,Honduras,San Pedro Sula,Home Office,Camping & Hiking,Fan Shop,957,2017-03,Monday,2.0,1.0,299.980011,1,1,0.7365221515422137
+Standard Class,LATAM,Central America,México,Tijuana,Consumer,Water Sports,Fan Shop,1073,2017-02,Wednesday,4.0,1.0,199.9900055,1,0,0.3711985938047144
+Second Class,Europe,Southern Europe,España,Barcelona,Consumer,Cardio Equipment,Footwear,191,2015-06,Monday,2.0,5.0,499.9500122,0,1,0.6328525364161096
+Second Class,LATAM,Central America,Nicaragua,Granada,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-01,Monday,2.0,2.0,99.95999908,1,1,0.9106155160446043
+Standard Class,USCA,US Center,Estados Unidos,Detroit,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-06,Thursday,4.0,3.0,149.9400024,0,0,0.3773074434709593
+Standard Class,Pacific Asia,Southeast Asia,Indonesia,Bandung,Consumer,Shop By Sport,Golf,627,2016-03,Saturday,4.0,2.0,79.98000336,0,0,0.42049424541772135
+Standard Class,Europe,Western Europe,Alemania,Munich,Consumer,Fishing,Fan Shop,1004,2017-07,Monday,4.0,1.0,399.980011,1,0,0.29065720861181354
+Standard Class,Pacific Asia,Southeast Asia,Indonesia,Jambi,Home Office,Shop By Sport,Golf,627,2015-12,Tuesday,4.0,5.0,199.9499969,0,0,0.28890032657754217
+Standard Class,Europe,Eastern Europe,Rusia,Cheliábinsk,Corporate,Water Sports,Fan Shop,1073,2016-12,Saturday,4.0,1.0,199.9900055,0,0,0.29807334354514503
+Standard Class,Europe,Western Europe,Suiza,Lausanne,Consumer,Cardio Equipment,Footwear,191,2015-09,Thursday,4.0,1.0,99.98999786,1,0,0.4046565629338762
+Standard Class,Pacific Asia,Eastern Asia,China,Huizhou,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-12,Tuesday,4.0,1.0,49.97999954,1,0,0.3361136184040161
+Second Class,Europe,Western Europe,Francia,Bagneux,Corporate,Cleats,Apparel,365,2015-09,Monday,2.0,5.0,299.9500122,1,1,0.7370237666756625
+Standard Class,Pacific Asia,Eastern Asia,Corea del Sur,Seúl,Consumer,Men's Clothing,Apparel,1357,2017-11,Wednesday,4.0,1.0,210.8500061,0,0,0.3492486174257602
+Second Class,Pacific Asia,West Asia,Irak,Basra,Consumer,Electronics,Outdoors,825,2016-10,Wednesday,2.0,3.0,95.97000122,1,1,0.8969503818529552
+Second Class,LATAM,Central America,México,Guadalajara,Consumer,Fishing,Fan Shop,1004,2017-01,Saturday,2.0,1.0,399.980011,1,1,0.791804807837365
+Standard Class,Europe,Southern Europe,Italia,Naples,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2017-07,Saturday,4.0,2.0,99.95999908,0,0,0.17793981654395463
+Standard Class,Pacific Asia,South Asia,Bangladés,Khulna,Corporate,Garden,Outdoors,1355,2017-11,Friday,4.0,1.0,532.5800171,0,0,0.27349987783878926
+Standard Class,Africa,Southern Africa,SudAfrica,Port Elizabeth,Corporate,Fishing,Fan Shop,1004,2016-12,Tuesday,4.0,1.0,399.980011,0,0,0.3471469966672589
+Standard Class,LATAM,South America,Brasil,Salvador,Consumer,Cardio Equipment,Footwear,191,2017-06,Saturday,4.0,1.0,99.98999786,1,0,0.473635211742092
+Second Class,Europe,Western Europe,Alemania,Heidelberg,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2017-07,Saturday,2.0,4.0,199.9199982,1,1,0.7380745999411334
+Second Class,LATAM,South America,Brasil,Presidente Dutra,Consumer,Camping & Hiking,Fan Shop,957,2017-06,Wednesday,2.0,1.0,299.980011,1,1,0.7991484786195473
+Second Class,Pacific Asia,Oceania,Nueva Zelanda,Manukau City,Consumer,Shop By Sport,Golf,627,2016-04,Friday,2.0,4.0,159.9600067,1,1,0.7322118942446371
+Standard Class,USCA,West of USA,Estados Unidos,Los Angeles,Consumer,Water Sports,Fan Shop,1073,2016-06,Thursday,4.0,1.0,199.9900055,0,0,0.3049420281268198
+Same Day,LATAM,Central America,Nicaragua,Tipitapa,Consumer,Men's Footwear,Apparel,403,2015-03,Thursday,0.0,1.0,129.9900055,0,1,0.5483301063584405
+Second Class,Europe,Western Europe,Francia,Chartres,Consumer,Women's Apparel,Golf,502,2015-07,Wednesday,2.0,5.0,250.0,1,1,0.762635112340677
+Standard Class,LATAM,South America,Brasil,São Miguel dos Campos,Home Office,Water Sports,Fan Shop,1073,2015-05,Friday,4.0,1.0,199.9900055,0,0,0.16224775492947227
+Second Class,USCA,South of  USA,Estados Unidos,Jacksonville,Home Office,Cleats,Apparel,365,2016-06,Monday,2.0,4.0,239.9600067,1,1,0.7827580059586987
+Standard Class,USCA,East of USA,Estados Unidos,Orange,Home Office,Accessories,Outdoors,897,2016-08,Wednesday,4.0,5.0,124.9499969,1,0,0.3545849849868891
+Same Day,LATAM,Caribbean,Cuba,Las Tunas,Consumer,Shop By Sport,Golf,627,2015-05,Sunday,0.0,4.0,159.9600067,0,0,0.32231177827883273
+Standard Class,USCA,East of USA,Estados Unidos,New York City,Home Office,Women's Apparel,Golf,502,2016-07,Thursday,4.0,4.0,200.0,0,0,0.3451713957408529
+Second Class,LATAM,South America,Ecuador,Quito,Corporate,Cardio Equipment,Footwear,191,2015-02,Monday,2.0,4.0,399.9599915,1,1,0.8177070597829738
+Second Class,Europe,Western Europe,Austria,Viena,Corporate,Men's Footwear,Apparel,403,2015-06,Monday,2.0,1.0,129.9900055,1,1,0.6968171584890086
+Standard Class,Pacific Asia,South Asia,Irán,Mashhad,Home Office,Cardio Equipment,Footwear,191,2016-12,Friday,4.0,3.0,299.9700012,1,0,0.3657279902240806
+Standard Class,USCA,West of USA,Estados Unidos,Long Beach,Corporate,Women's Apparel,Golf,502,2016-08,Tuesday,4.0,3.0,150.0,1,0,0.2761725254156846
+First Class,Pacific Asia,Southeast Asia,Indonesia,Surabaya,Corporate,Cleats,Apparel,365,2016-02,Monday,1.0,2.0,119.9800034,0,1,0.9100211093395487
+First Class,Europe,Eastern Europe,Rusia,Severodvinsk,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-09,Sunday,1.0,1.0,49.97999954,1,1,0.9310082172450537
+Second Class,Europe,Western Europe,Francia,Roubaix,Corporate,Women's Apparel,Golf,502,2015-09,Saturday,2.0,2.0,100.0,1,1,0.7413223243481686
+Standard Class,LATAM,Central America,Honduras,Tegucigalpa,Home Office,Cleats,Apparel,365,2017-04,Thursday,4.0,1.0,59.99000168,1,0,0.34949378973219125
+Standard Class,Pacific Asia,Oceania,Nueva Zelanda,Hastings,Consumer,Women's Apparel,Golf,502,2016-03,Saturday,4.0,3.0,150.0,0,0,0.2752358020921459
+Standard Class,LATAM,South America,Brasil,São Paulo,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-05,Sunday,4.0,1.0,49.97999954,1,0,0.32815322496236804
+Standard Class,Pacific Asia,West Asia,Irak,Bagdad,Consumer,Women's Apparel,Golf,502,2016-10,Sunday,4.0,2.0,100.0,0,0,0.2935565405996617
+Same Day,LATAM,Central America,El Salvador,Apopa,Consumer,Women's Apparel,Golf,502,2017-04,Saturday,0.0,1.0,50.0,0,1,0.540318089781725
+Second Class,Europe,Northern Europe,Reino Unido,Birmingham,Corporate,Golf Shoes,Outdoors,730,2017-08,Wednesday,2.0,2.0,160.0,1,1,0.6052638986515255
+Second Class,LATAM,Central America,México,Puebla,Home Office,Cardio Equipment,Footwear,191,2015-02,Wednesday,2.0,3.0,299.9700012,1,1,0.7429128358707039
+Standard Class,USCA,South of  USA,Estados Unidos,Lakeland,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-05,Tuesday,4.0,1.0,49.97999954,0,0,0.3472118492441475
+Standard Class,USCA,US Center,Estados Unidos,Round Rock,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2016-04,Friday,4.0,2.0,99.95999908,1,0,0.34287973803969524
+Standard Class,Pacific Asia,South Asia,Irán,Masjed Soleyman,Corporate,Shop By Sport,Golf,627,2016-08,Tuesday,4.0,5.0,199.9499969,0,0,0.30828856083411765
+First Class,LATAM,South America,Brasil,Ananindeua,Consumer,Fishing,Fan Shop,1004,2017-05,Saturday,1.0,1.0,399.980011,1,1,0.9269775374262048
+First Class,USCA,East of USA,Estados Unidos,New York City,Consumer,Accessories,Outdoors,906,2016-05,Tuesday,1.0,3.0,74.97000122,1,1,0.9438638481938579
+Same Day,Europe,Eastern Europe,Rumania,Giurgiu,Corporate,Camping & Hiking,Fan Shop,957,2016-11,Tuesday,0.0,1.0,299.980011,0,0,0.45211033227264447
+Second Class,LATAM,Central America,Guatemala,Quetzaltenango,Corporate,Women's Apparel,Golf,502,2017-02,Friday,2.0,5.0,250.0,1,1,0.7911702238723446
+Standard Class,Pacific Asia,Oceania,Australia,Brisbane,Consumer,Video Games,Discs Shop,1362,2018-01,Tuesday,4.0,1.0,39.75,1,0,0.3906134589219832
+Standard Class,LATAM,Caribbean,República Dominicana,Santo Domingo,Consumer,Men's Footwear,Apparel,403,2017-04,Monday,4.0,1.0,129.9900055,0,0,0.31305528637071034
+Same Day,LATAM,South America,Chile,Santiago de Chile,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2017-05,Thursday,0.0,1.0,49.97999954,0,1,0.504090427916339
+Standard Class,Pacific Asia,Oceania,Australia,Adelaide,Corporate,Men's Clothing,Apparel,1357,2017-11,Wednesday,4.0,1.0,210.8500061,0,0,0.2721062568664776
+Same Day,USCA,East of USA,Estados Unidos,New York City,Corporate,Cleats,Apparel,365,2016-04,Wednesday,0.0,5.0,299.9500122,1,1,0.51638139184964
+Second Class,LATAM,Central America,México,Torreón,Consumer,Camping & Hiking,Fan Shop,957,2017-04,Saturday,2.0,1.0,299.980011,1,1,0.7178209766976259
+Same Day,Pacific Asia,Eastern Asia,China,Zhumadian,Corporate,Hunting & Shooting,Fan Shop,977,2015-10,Wednesday,0.0,5.0,149.9499969,1,1,0.6804508607822678
+Second Class,Europe,Western Europe,Francia,Cagnes-sur-Mer,Consumer,Men's Footwear,Apparel,403,2017-10,Sunday,2.0,1.0,129.9900055,0,1,0.7262510307848243
+Standard Class,Europe,Western Europe,Francia,Villeneuve-le-Roi,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2017-10,Monday,4.0,3.0,149.9400024,1,0,0.3299025746458508
+First Class,Europe,Eastern Europe,Moldavia,Chisináu,Home Office,Men's Footwear,Apparel,403,2016-10,Friday,1.0,1.0,129.9900055,1,1,0.9639888123003969
+Same Day,USCA,US Center,Estados Unidos,Richmond,Consumer,Men's Footwear,Apparel,403,2016-08,Tuesday,0.0,1.0,129.9900055,1,0,0.47595417499972204
+Standard Class,Pacific Asia,Southeast Asia,Filipinas,Manila,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-10,Monday,4.0,3.0,149.9400024,0,0,0.31664523471038525
+Standard Class,Pacific Asia,West Asia,Turquía,Adana,Corporate,Camping & Hiking,Fan Shop,957,2016-12,Sunday,4.0,1.0,299.980011,0,0,0.33881004228803535
+Standard Class,LATAM,Central America,México,Veracruz,Consumer,Fishing,Fan Shop,1004,2017-03,Monday,4.0,1.0,399.980011,1,0,0.36815455916672046
+Standard Class,Europe,Western Europe,Francia,Beaune,Consumer,Cleats,Apparel,365,2017-06,Monday,4.0,4.0,239.9600067,1,0,0.3223248027705532
+Standard Class,Europe,Southern Europe,España,Bilbao,Consumer,Electronics,Footwear,273,2015-07,Saturday,4.0,3.0,83.97000122,0,0,0.3857836930689041
+Same Day,LATAM,Caribbean,Cuba,San José de las Lajas,Corporate,Cardio Equipment,Footwear,191,2017-02,Thursday,0.0,4.0,399.9599915,1,0,0.4138651648198126
+Same Day,Pacific Asia,South Asia,India,Kanpur,Corporate,Video Games,Discs Shop,1362,2018-01,Thursday,0.0,1.0,39.75,1,0,0.494729707205231
+First Class,Europe,Western Europe,Francia,Nice,Consumer,Fishing,Fan Shop,1004,2015-07,Friday,1.0,1.0,399.980011,1,1,0.9041605932588433
+First Class,USCA,South of  USA,Estados Unidos,Coral Springs,Corporate,Women's Apparel,Golf,502,2016-08,Tuesday,1.0,2.0,100.0,1,1,0.9395812022776273
+Standard Class,Pacific Asia,South Asia,Irán,Hamadán,Consumer,Men's Footwear,Apparel,403,2016-09,Monday,4.0,1.0,129.9900055,1,0,0.29880594794068754
+Second Class,USCA,East of USA,Estados Unidos,Elyria,Consumer,Water Sports,Fan Shop,1073,2016-08,Sunday,2.0,1.0,199.9900055,1,1,0.7032153909930883
+Second Class,LATAM,Caribbean,Barbados,Bridgetown,Corporate,Fishing,Fan Shop,1004,2015-05,Thursday,2.0,1.0,399.980011,1,1,0.6060412085609318
+Standard Class,Africa,Central Africa,Camerún,Bamenda,Consumer,Shop By Sport,Golf,627,2016-11,Wednesday,4.0,5.0,199.9499969,0,0,0.29841173320724335
+Second Class,USCA,West of USA,Estados Unidos,Seattle,Home Office,Women's Apparel,Golf,502,2016-07,Monday,2.0,4.0,200.0,1,1,0.5658213617961965
+Standard Class,LATAM,Central America,México,Silao,Home Office,Cleats,Apparel,365,2017-05,Wednesday,4.0,3.0,179.9700012,1,0,0.31316254869404886
+Standard Class,Europe,Northern Europe,Reino Unido,Worcester,Home Office,Women's Apparel,Golf,502,2015-06,Saturday,4.0,1.0,50.0,0,0,0.27021511805477705
+Second Class,Europe,Northern Europe,Reino Unido,Halifax,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2017-09,Tuesday,2.0,1.0,49.97999954,1,1,0.6935184957210503
+Standard Class,Europe,Northern Europe,Reino Unido,London,Home Office,Cleats,Apparel,365,2015-09,Sunday,4.0,1.0,59.99000168,1,0,0.34078515136350196
+Standard Class,Europe,Western Europe,Austria,Villach,Consumer,Cardio Equipment,Footwear,191,2015-06,Wednesday,4.0,1.0,99.98999786,0,0,0.38329463727781193
+First Class,Europe,Southern Europe,España,Girona,Consumer,Cleats,Apparel,365,2015-10,Wednesday,1.0,2.0,119.9800034,1,1,0.9463819316309243
+First Class,Pacific Asia,Oceania,Australia,Sydney,Consumer,Water Sports,Fan Shop,1073,2016-02,Sunday,1.0,1.0,199.9900055,1,1,0.9341781851063092
+Standard Class,LATAM,Caribbean,Cuba,San José de las Lajas,Consumer,Golf Balls,Outdoors,804,2015-03,Saturday,4.0,4.0,79.95999908,1,0,0.28211083243227697
+Standard Class,LATAM,Central America,Nicaragua,Managua,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-02,Tuesday,4.0,5.0,249.8999939,1,0,0.3605699124732048
+Standard Class,Pacific Asia,West Asia,Arabia Saudí,Abha,Consumer,Electronics,Footwear,273,2016-10,Monday,4.0,3.0,83.97000122,1,0,0.3117120627539025
+First Class,USCA,West of USA,Estados Unidos,Los Angeles,Corporate,Men's Footwear,Apparel,403,2016-07,Sunday,1.0,1.0,129.9900055,1,1,0.9210980947709394
+Second Class,LATAM,South America,Venezuela,Palo Negro,Corporate,Camping & Hiking,Fan Shop,957,2017-04,Saturday,2.0,1.0,299.980011,0,1,0.7584971186087042
+First Class,LATAM,Central America,Panamá,San Miguelito,Consumer,Cleats,Apparel,365,2017-02,Friday,1.0,3.0,179.9700012,1,1,0.9121482313427244
+Standard Class,Europe,Western Europe,Francia,Toulouse,Corporate,Water Sports,Fan Shop,1073,2015-07,Thursday,4.0,1.0,199.9900055,0,0,0.408527786431186
+Standard Class,USCA,South of  USA,Estados Unidos,Jonesboro,Consumer,Water Sports,Fan Shop,1073,2016-05,Tuesday,4.0,1.0,199.9900055,1,0,0.3354389202374806
+Standard Class,USCA,West of USA,Estados Unidos,Seattle,Corporate,Women's Apparel,Golf,502,2016-05,Saturday,4.0,4.0,200.0,0,0,0.20993228782554016
+First Class,LATAM,Central America,Nicaragua,Estelí,Consumer,Men's Footwear,Apparel,403,2015-03,Wednesday,1.0,1.0,129.9900055,1,1,0.9591717558950738
+First Class,LATAM,South America,Colombia,Cúcuta,Corporate,Fishing,Fan Shop,1004,2017-02,Wednesday,1.0,1.0,399.980011,1,1,0.9480612149236538
+Standard Class,LATAM,Central America,El Salvador,Antiguo Cuscatlán,Home Office,Cardio Equipment,Footwear,191,2017-02,Saturday,4.0,5.0,499.9500122,1,0,0.32270638705504867
+Standard Class,Pacific Asia,South Asia,India,Amritsar,Home Office,Shop By Sport,Golf,627,2015-11,Friday,4.0,1.0,39.99000168,0,0,0.37541318207168717
+Standard Class,Pacific Asia,South Asia,Nepal,Kathmandu,Consumer,Cleats,Apparel,365,2015-11,Sunday,4.0,3.0,179.9700012,0,0,0.36086386519626523
+Standard Class,Europe,Western Europe,Francia,Evry,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2017-08,Friday,4.0,5.0,249.8999939,0,0,0.3455722023210999
+Second Class,LATAM,Central America,México,Orizaba,Consumer,Water Sports,Fan Shop,1073,2015-01,Wednesday,2.0,1.0,199.9900055,0,1,0.7354911578720369
+Second Class,Europe,Northern Europe,Suecia,Nacka,Corporate,Shop By Sport,Golf,627,2017-09,Tuesday,2.0,2.0,79.98000336,1,1,0.7253946583725386
+Second Class,USCA,West of USA,Estados Unidos,Los Angeles,Home Office,Camping & Hiking,Fan Shop,957,2016-05,Wednesday,2.0,1.0,299.980011,1,1,0.7274606729936125
+Standard Class,LATAM,South America,Venezuela,Baruta,Corporate,Trade-In,Outdoors,924,2015-05,Sunday,4.0,3.0,47.97000122,0,0,0.39993738884643426
+Second Class,LATAM,Central America,México,Atlixco,Consumer,Shop By Sport,Golf,627,2017-02,Friday,2.0,2.0,79.98000336,0,1,0.7568217899310024
+First Class,LATAM,Central America,Nicaragua,Managua,Consumer,Cleats,Apparel,365,2015-05,Friday,1.0,3.0,179.9700012,1,1,0.9451383619620182
+First Class,USCA,South of  USA,Estados Unidos,Waynesboro,Consumer,Water Sports,Fan Shop,1073,2016-07,Tuesday,1.0,1.0,199.9900055,1,1,0.9316713332580722
+Second Class,USCA,Canada,Canada,St. Catharines,Consumer,Water Sports,Fan Shop,1073,2016-11,Saturday,2.0,1.0,199.9900055,1,1,0.6234196903456543
+Standard Class,Pacific Asia,South Asia,Irán,Bandar Abbas,Corporate,Camping & Hiking,Fan Shop,957,2016-09,Thursday,4.0,1.0,299.980011,0,0,0.31423479638231766
+Second Class,Pacific Asia,Eastern Asia,China,Xi'an,Consumer,Fishing,Fan Shop,1004,2016-02,Monday,2.0,1.0,399.980011,1,1,0.7716311346321059
+Standard Class,Pacific Asia,Eastern Asia,China,Chongqing,Consumer,Cleats,Apparel,365,2016-01,Tuesday,4.0,1.0,59.99000168,0,0,0.20305650365501773
+Same Day,Europe,Western Europe,Países Bajos,Velsen,Consumer,Cleats,Apparel,365,2015-10,Tuesday,0.0,4.0,239.9600067,0,0,0.4238036835001865
+Standard Class,Europe,Northern Europe,Reino Unido,Sunderland,Corporate,Electronics,Outdoors,818,2015-07,Tuesday,4.0,4.0,191.9600067,1,0,0.21813332907630228
+Second Class,Europe,Western Europe,Alemania,Recklinghausen,Home Office,Men's Footwear,Apparel,403,2017-08,Wednesday,2.0,1.0,129.9900055,1,1,0.751591667715994
+Standard Class,Europe,Western Europe,Francia,Bordeaux,Consumer,Water Sports,Fan Shop,1073,2017-07,Saturday,4.0,1.0,199.9900055,0,0,0.31863781663367646
+Standard Class,USCA,South of  USA,Estados Unidos,Columbia,Consumer,Women's Apparel,Golf,502,2016-06,Wednesday,4.0,5.0,250.0,1,0,0.417410243751683
+Second Class,LATAM,Central America,Panamá,Panama City,Corporate,Women's Apparel,Golf,502,2017-03,Wednesday,2.0,1.0,50.0,1,1,0.7296826705861367
+Second Class,Africa,North Africa,Egipto,Cairo,Consumer,Men's Footwear,Apparel,403,2016-12,Monday,2.0,1.0,129.9900055,1,1,0.748152232677861
+Second Class,LATAM,Central America,Guatemala,Escuintla,Corporate,Shop By Sport,Golf,627,2015-05,Thursday,2.0,4.0,159.9600067,1,1,0.7797474336063739
+Standard Class,LATAM,South America,Brasil,Guaratinguetá,Home Office,Water Sports,Fan Shop,1073,2015-05,Saturday,4.0,1.0,199.9900055,0,0,0.3051000769213061
+Standard Class,Africa,Southern Africa,SudAfrica,Soweto,Consumer,Fishing,Fan Shop,1004,2016-08,Tuesday,4.0,1.0,399.980011,0,0,0.3477517955242855
+Standard Class,Pacific Asia,Oceania,Australia,Sydney,Consumer,Cardio Equipment,Footwear,191,2015-11,Sunday,4.0,2.0,199.9799957,1,0,0.31931313248388465
+Standard Class,LATAM,Caribbean,Cuba,Las Tunas,Consumer,Men's Footwear,Apparel,403,2017-06,Saturday,4.0,1.0,129.9900055,1,0,0.24682848494510395
+Standard Class,Africa,East Africa,Mozambique,Beira,Consumer,Cleats,Apparel,365,2016-12,Saturday,4.0,4.0,239.9600067,1,0,0.37780868500885734
+Second Class,LATAM,South America,Brasil,Presidente Dutra,Corporate,Men's Footwear,Apparel,403,2017-06,Wednesday,2.0,1.0,129.9900055,0,1,0.7881687440708379
+Standard Class,Africa,West Africa,Nigeria,Lagos,Home Office,Fishing,Fan Shop,1004,2016-09,Friday,4.0,1.0,399.980011,0,0,0.3120903106968771
+Standard Class,Pacific Asia,Oceania,Australia,Melton,Home Office,Women's Apparel,Golf,502,2015-12,Wednesday,4.0,1.0,50.0,0,0,0.31380407432142465
+Standard Class,LATAM,Central America,El Salvador,Santa Ana,Consumer,Fishing,Fan Shop,1004,2017-02,Saturday,4.0,1.0,399.980011,1,0,0.33570629412736974
+Standard Class,LATAM,Caribbean,República Dominicana,Santa Cruz de Barahona,Consumer,Water Sports,Fan Shop,1073,2017-06,Monday,4.0,1.0,199.9900055,0,0,0.32591761526594676
+Standard Class,Pacific Asia,Eastern Asia,Japón,Tokio,Consumer,Cleats,Apparel,365,2015-12,Sunday,4.0,4.0,239.9600067,1,0,0.40226058434274825
+Second Class,Pacific Asia,Southeast Asia,Indonesia,Kupang,Consumer,Water Sports,Fan Shop,1073,2016-01,Thursday,2.0,1.0,199.9900055,1,1,0.6965574702186662
+Standard Class,LATAM,Central America,México,Tepic,Corporate,Shop By Sport,Golf,627,2017-06,Friday,4.0,5.0,199.9499969,1,0,0.39266163070386834
+Standard Class,LATAM,Caribbean,Cuba,Santiago de Cuba,Consumer,Cardio Equipment,Footwear,191,2017-05,Wednesday,4.0,2.0,199.9799957,1,0,0.29705594009875774
+Standard Class,Africa,West Africa,Nigeria,Lagos,Corporate,Cardio Equipment,Footwear,191,2016-10,Wednesday,4.0,4.0,399.9599915,0,0,0.37037218280692513
+Standard Class,USCA,US Center,Estados Unidos,Franklin,Consumer,Shop By Sport,Golf,627,2016-04,Sunday,4.0,1.0,39.99000168,1,0,0.35991152828542383
+Second Class,Africa,Central Africa,República Democrática del Congo,Kinshasa,Consumer,Women's Apparel,Golf,502,2016-12,Wednesday,2.0,3.0,150.0,1,1,0.8006635874766059
+Standard Class,Pacific Asia,Oceania,Australia,Sydney,Consumer,Video Games,Discs Shop,1362,2018-01,Thursday,4.0,1.0,39.75,0,0,0.3453917564333525
+Second Class,USCA,US Center,Estados Unidos,Mcallen,Consumer,Fishing,Fan Shop,1004,2016-07,Thursday,2.0,1.0,399.980011,1,1,0.6902794995169966
+Standard Class,Europe,Western Europe,Francia,Aulnay-sous-Bois,Home Office,Golf Balls,Outdoors,810,2015-06,Saturday,4.0,3.0,59.97000122,0,0,0.34396460610096874
+First Class,LATAM,Caribbean,Cuba,Bayamo,Consumer,Cleats,Apparel,365,2015-03,Tuesday,1.0,1.0,59.99000168,1,1,0.9329066557890041
+Standard Class,USCA,West of USA,Estados Unidos,Pleasant Grove,Consumer,Fishing,Fan Shop,1004,2016-04,Thursday,4.0,1.0,399.980011,1,0,0.3603462522744916
+Standard Class,Pacific Asia,Eastern Asia,China,Suzhou,Consumer,Books,Book Shop,1346,2017-12,Saturday,4.0,1.0,31.07999992,0,1,0.5106713357261483
+Same Day,Europe,Southern Europe,Italia,Verona,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2017-06,Monday,0.0,5.0,249.8999939,1,0,0.4470207666080688
+Standard Class,LATAM,Caribbean,Cuba,Santiago de Cuba,Consumer,Camping & Hiking,Fan Shop,957,2015-02,Monday,4.0,1.0,299.980011,0,0,0.31574778345264576
+Standard Class,Europe,Western Europe,Francia,Paris,Corporate,Shop By Sport,Golf,627,2015-06,Wednesday,4.0,2.0,79.98000336,0,0,0.24697914836218093
+Second Class,LATAM,Central America,Nicaragua,Managua,Consumer,Women's Apparel,Golf,502,2015-03,Saturday,2.0,3.0,150.0,1,1,0.7790392975733508
+Second Class,Europe,Western Europe,Alemania,Potsdam,Consumer,Men's Footwear,Apparel,403,2017-08,Tuesday,2.0,1.0,129.9900055,0,1,0.7297306105388475
+Standard Class,Europe,Southern Europe,España,Sabadell,Corporate,Women's Apparel,Golf,502,2017-08,Thursday,4.0,1.0,50.0,1,0,0.33974651417772245
+Standard Class,Europe,Western Europe,Alemania,Berlín,Corporate,Cleats,Apparel,365,2015-09,Sunday,4.0,2.0,119.9800034,0,0,0.29640134866982687
+Standard Class,USCA,US Center,Estados Unidos,Oklahoma City,Consumer,Women's Apparel,Golf,502,2016-06,Tuesday,4.0,3.0,150.0,0,0,0.29647667822719953
+Standard Class,USCA,West of USA,Estados Unidos,Springfield,Consumer,Women's Apparel,Golf,502,2016-04,Friday,4.0,5.0,250.0,0,0,0.3271639691546315
+Standard Class,Europe,Western Europe,Francia,La Baule-Escoublac,Home Office,Fishing,Fan Shop,1004,2015-10,Sunday,4.0,1.0,399.980011,0,0,0.36856489123731706
+Standard Class,Europe,Western Europe,Francia,Montpellier,Consumer,Children's Clothing,Apparel,1350,2017-10,Thursday,4.0,1.0,357.1000061,0,1,0.573545994954638
+Standard Class,LATAM,Central America,México,Gómez Palacio,Home Office,Men's Footwear,Apparel,403,2015-03,Saturday,4.0,1.0,129.9900055,1,0,0.45854507996117555
+Standard Class,Europe,Northern Europe,Reino Unido,London,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-10,Thursday,4.0,5.0,249.8999939,0,0,0.350975044728074
+Second Class,Pacific Asia,Eastern Asia,China,Datong,Corporate,Fishing,Fan Shop,1004,2016-01,Wednesday,2.0,1.0,399.980011,1,1,0.7564671767792103
+Same Day,LATAM,Central America,Guatemala,Chimaltenango,Consumer,Camping & Hiking,Fan Shop,957,2017-05,Saturday,0.0,1.0,299.980011,0,1,0.5018976980371722
+Second Class,Pacific Asia,Oceania,Australia,Caloundra,Home Office,Fishing,Fan Shop,1004,2015-11,Friday,2.0,1.0,399.980011,1,1,0.8258032696845846
+Second Class,Europe,Northern Europe,Reino Unido,Swansea,Consumer,Camping & Hiking,Fan Shop,957,2017-07,Tuesday,2.0,1.0,299.980011,0,1,0.6833701536459829
+Second Class,Africa,North Africa,Marruecos,Casablanca,Consumer,Electronics,Footwear,282,2017-01,Wednesday,2.0,3.0,95.97000122,1,1,0.8443646632711402
+Standard Class,USCA,South of  USA,Estados Unidos,Knoxville,Consumer,Fishing,Fan Shop,1004,2016-06,Saturday,4.0,1.0,399.980011,1,0,0.35433422719906377
+First Class,LATAM,Central America,México,Manzanillo,Corporate,Cleats,Apparel,365,2017-04,Sunday,1.0,3.0,179.9700012,1,1,0.890947141355763
+Standard Class,Pacific Asia,West Asia,Turquía,Adana,Consumer,Fishing,Fan Shop,1004,2016-11,Saturday,4.0,1.0,399.980011,1,0,0.3216541279197519
+Standard Class,LATAM,South America,Argentina,San Juan,Corporate,Cleats,Apparel,365,2015-01,Wednesday,4.0,4.0,239.9600067,0,0,0.3298092703125111
+Second Class,Pacific Asia,South Asia,India,Chennai,Consumer,Women's Apparel,Golf,502,2015-12,Wednesday,2.0,1.0,50.0,1,1,0.709064489365039
+Standard Class,Pacific Asia,Southeast Asia,Tailandia,Bangkok,Consumer,Consumer Electronics,Technology,1352,2017-12,Monday,4.0,1.0,252.8800049,1,0,0.29468773300421697
+Standard Class,LATAM,South America,Brasil,São Paulo,Consumer,Cleats,Apparel,365,2017-04,Sunday,4.0,1.0,59.99000168,0,0,0.32308998283403867
+Standard Class,LATAM,Central America,El Salvador,San Salvador,Consumer,Men's Footwear,Apparel,403,2015-04,Saturday,4.0,1.0,129.9900055,0,0,0.33329418320059473
+First Class,LATAM,Central America,Honduras,Tegucigalpa,Consumer,Cleats,Apparel,365,2015-05,Saturday,1.0,3.0,179.9700012,1,1,0.9421718593111584
+Standard Class,Africa,North Africa,Marruecos,Casablanca,Corporate,Accessories,Outdoors,905,2016-12,Friday,4.0,1.0,24.98999977,1,0,0.3050660299725613
+Standard Class,Pacific Asia,Oceania,Australia,Wollongong,Home Office,Camping & Hiking,Fan Shop,957,2016-01,Monday,4.0,1.0,299.980011,0,0,0.2982752946685609
+Standard Class,LATAM,Central America,México,Puerto Vallarta,Consumer,Women's Apparel,Golf,502,2015-02,Wednesday,4.0,5.0,250.0,0,0,0.34604083012078585
+Second Class,Pacific Asia,Eastern Asia,Japón,Takamatsu,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-02,Thursday,2.0,4.0,199.9199982,1,1,0.7207540915654359
+Standard Class,Europe,Western Europe,Alemania,Dortmund,Home Office,Water Sports,Fan Shop,1073,2015-06,Sunday,4.0,1.0,199.9900055,0,0,0.20425779872208713
+Second Class,Africa,East Africa,Zambia,Chingola,Consumer,Water Sports,Fan Shop,1073,2016-12,Sunday,2.0,1.0,199.9900055,1,1,0.8520007609179563
+Same Day,Pacific Asia,Oceania,Australia,Caloundra,Corporate,Camping & Hiking,Fan Shop,957,2015-12,Tuesday,0.0,1.0,299.980011,1,1,0.5218399891270525
+Standard Class,USCA,Canada,Canada,Calgary,Consumer,Cardio Equipment,Footwear,191,2016-11,Friday,4.0,5.0,499.9500122,1,0,0.22993290922829573
+Same Day,USCA,West of USA,Estados Unidos,Los Angeles,Consumer,Water Sports,Fan Shop,1073,2016-08,Monday,0.0,1.0,199.9900055,0,0,0.37994284199518996
+Standard Class,Pacific Asia,Oceania,Nueva Zelanda,Auckland,Home Office,Cleats,Apparel,365,2016-03,Friday,4.0,5.0,299.9500122,1,0,0.27077348240407795
+Same Day,Europe,Western Europe,Francia,Paris,Corporate,Cleats,Apparel,365,2017-07,Tuesday,0.0,5.0,299.9500122,0,0,0.29960757629916945
+First Class,Pacific Asia,Southeast Asia,Tailandia,Bangkok,Consumer,Electronics,Outdoors,818,2016-02,Saturday,1.0,2.0,95.98000336,1,1,0.9141870732892508
+Second Class,Pacific Asia,Oceania,Nueva Zelanda,Manukau City,Consumer,Hockey,Fitness,135,2016-04,Friday,2.0,1.0,22.0,0,1,0.6419940946421026
+Standard Class,Europe,Western Europe,Francia,Bordeaux,Home Office,Camping & Hiking,Fan Shop,957,2017-08,Thursday,4.0,1.0,299.980011,0,0,0.33827621334702085
+Standard Class,USCA,West of USA,Estados Unidos,Pleasant Grove,Consumer,Baseball & Softball,Fitness,44,2016-04,Thursday,4.0,1.0,59.99000168,0,0,0.2690826561708844
+Standard Class,Europe,Western Europe,Francia,Dreux,Consumer,Men's Footwear,Apparel,403,2015-07,Tuesday,4.0,1.0,129.9900055,1,0,0.3368544088319377
+Standard Class,LATAM,Central America,Guatemala,Escuintla,Consumer,Women's Apparel,Golf,502,2015-02,Sunday,4.0,1.0,50.0,0,0,0.40575485804111555
+Same Day,Pacific Asia,Southeast Asia,Indonesia,Yakarta,Corporate,Toys,Fan Shop,1361,2018-01,Tuesday,0.0,1.0,11.53999996,0,0,0.39795204053268596
+Standard Class,Africa,North Africa,Marruecos,Rabat,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2017-01,Saturday,4.0,3.0,149.9400024,0,0,0.16936449903347436
+Second Class,USCA,East of USA,Estados Unidos,Philadelphia,Consumer,Cleats,Apparel,365,2016-04,Tuesday,2.0,5.0,299.9500122,1,1,0.729052793686833
+Standard Class,USCA,East of USA,Estados Unidos,Fairfield,Consumer,Electronics,Outdoors,828,2016-04,Monday,4.0,1.0,31.98999977,0,0,0.43443032632563044
+Second Class,Europe,Northern Europe,Suecia,Halmstad,Corporate,Electronics,Outdoors,823,2015-07,Sunday,2.0,1.0,51.99000168,1,1,0.7874468760310567
+Standard Class,LATAM,South America,Brasil,Novo Gama,Consumer,Fishing,Fan Shop,1004,2017-04,Saturday,4.0,1.0,399.980011,0,0,0.3078191678233331
+Same Day,USCA,West of USA,Estados Unidos,Los Angeles,Corporate,Women's Apparel,Golf,502,2016-06,Tuesday,0.0,5.0,250.0,1,0,0.3730993387043307
+Second Class,Africa,Central Africa,República Democrática del Congo,Kinshasa,Corporate,Water Sports,Fan Shop,1073,2016-10,Monday,2.0,1.0,199.9900055,1,1,0.8097087381944147
+Second Class,USCA,US Center,Estados Unidos,Waco,Corporate,Water Sports,Fan Shop,1073,2016-07,Wednesday,2.0,1.0,199.9900055,1,1,0.6926464007763977
+Standard Class,Pacific Asia,Eastern Asia,Japón,Anjo,Consumer,Camping & Hiking,Fan Shop,957,2016-02,Wednesday,4.0,1.0,299.980011,1,0,0.33794044253918787
+Standard Class,LATAM,Central America,El Salvador,San Salvador,Consumer,Fishing,Fan Shop,1004,2015-03,Monday,4.0,1.0,399.980011,1,0,0.3527628786567314
+Standard Class,LATAM,Caribbean,República Dominicana,Santo Domingo,Consumer,Fishing,Fan Shop,1004,2017-05,Tuesday,4.0,1.0,399.980011,0,0,0.2994281073233337
+Standard Class,USCA,West of USA,Estados Unidos,Albuquerque,Consumer,Electronics,Outdoors,821,2016-06,Sunday,4.0,3.0,155.9700012,1,0,0.3563135999312971
+Standard Class,Europe,Eastern Europe,Polonia,Lublin,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-11,Thursday,4.0,2.0,99.95999908,0,0,0.29202176811939273
+Standard Class,USCA,East of USA,Estados Unidos,New York City,Corporate,Women's Apparel,Golf,502,2016-07,Monday,4.0,2.0,100.0,1,0,0.34648148510062154
+Second Class,Europe,Southern Europe,Italia,Prato,Consumer,Fishing,Fan Shop,1004,2017-08,Friday,2.0,1.0,399.980011,1,1,0.7809824553097072
+Standard Class,Pacific Asia,South Asia,Irán,Mashhad,Consumer,Camping & Hiking,Fan Shop,957,2016-10,Tuesday,4.0,1.0,299.980011,0,0,0.3994190499499355
+First Class,Pacific Asia,South Asia,India,Faridabad,Consumer,Shop By Sport,Golf,627,2015-11,Monday,1.0,5.0,199.9499969,1,1,0.9472664310015841
+Standard Class,Europe,Northern Europe,Dinamarca,Copenhagen,Home Office,Cleats,Apparel,365,2017-09,Sunday,4.0,5.0,299.9500122,0,0,0.38475611927674
+Standard Class,USCA,East of USA,Estados Unidos,New York City,Consumer,Cleats,Apparel,365,2016-06,Wednesday,4.0,5.0,299.9500122,0,0,0.3865541657053818
+Standard Class,LATAM,Central America,Panamá,San Miguelito,Corporate,Women's Apparel,Golf,502,2017-06,Sunday,4.0,3.0,150.0,0,0,0.24735924557725736
+First Class,LATAM,Central America,El Salvador,San Salvador,Corporate,Water Sports,Fan Shop,1073,2015-02,Saturday,1.0,1.0,199.9900055,1,1,0.9368003136077262
+First Class,Europe,Eastern Europe,Polonia,Slupsk,Consumer,Electronics,Outdoors,828,2017-01,Saturday,1.0,2.0,63.97999954,1,1,0.9372489733024385
+First Class,LATAM,Central America,México,Ciudad del Carmen,Corporate,Women's Apparel,Golf,502,2015-05,Monday,1.0,1.0,50.0,1,1,0.9353780987152739
+Second Class,LATAM,Central America,México,León,Consumer,Women's Apparel,Golf,502,2017-04,Thursday,2.0,4.0,200.0,0,1,0.6497406141637652
+Second Class,Europe,Western Europe,Francia,Le Mans,Consumer,Water Sports,Fan Shop,1073,2017-07,Thursday,2.0,1.0,199.9900055,1,1,0.7419147746205526
+First Class,Europe,Western Europe,Francia,Nice,Consumer,Men's Footwear,Apparel,403,2015-07,Sunday,1.0,1.0,129.9900055,1,1,0.9019099305190948
+Same Day,Pacific Asia,Eastern Asia,Corea del Sur,Seúl,Consumer,Women's Apparel,Golf,502,2016-01,Tuesday,0.0,2.0,100.0,1,0,0.469834089278909
+Standard Class,Europe,Western Europe,Francia,Montmorency,Consumer,Men's Footwear,Apparel,403,2017-07,Tuesday,4.0,1.0,129.9900055,1,0,0.3259396764439718
+Standard Class,Europe,Western Europe,Francia,Levallois-Perret,Consumer,Water Sports,Fan Shop,1073,2015-06,Wednesday,4.0,1.0,199.9900055,1,0,0.33625391707659613
+Standard Class,Pacific Asia,Southeast Asia,Filipinas,Antipolo,Consumer,Camping & Hiking,Fan Shop,957,2016-03,Friday,4.0,1.0,299.980011,0,0,0.3938164540495412
+Standard Class,Europe,Eastern Europe,Rusia,Irkutsk,Corporate,Women's Apparel,Golf,502,2016-10,Saturday,4.0,3.0,150.0,1,0,0.33912963719683525
+Second Class,USCA,West of USA,Estados Unidos,Seattle,Corporate,Men's Footwear,Apparel,403,2016-04,Monday,2.0,1.0,129.9900055,1,1,0.6283153539378309
+Standard Class,Pacific Asia,South Asia,Nepal,Kathmandu,Corporate,Women's Apparel,Golf,502,2015-10,Tuesday,4.0,3.0,150.0,0,0,0.3572950358481177
+Standard Class,Africa,West Africa,Togo,Lome,Consumer,Camping & Hiking,Fan Shop,957,2016-10,Wednesday,4.0,1.0,299.980011,0,0,0.34305554647037617
+Standard Class,Africa,West Africa,Nigeria,Port Harcourt,Corporate,Women's Apparel,Golf,502,2016-09,Sunday,4.0,2.0,100.0,1,0,0.2900050080099816
+Standard Class,LATAM,South America,Colombia,Ocaña,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-02,Monday,4.0,4.0,199.9199982,0,0,0.33868947025024626
+Standard Class,LATAM,South America,Brasil,São Gonçalo,Consumer,Men's Footwear,Apparel,403,2017-06,Saturday,4.0,1.0,129.9900055,0,0,0.3250364029228796
+Second Class,USCA,East of USA,Estados Unidos,Columbia,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-05,Tuesday,2.0,3.0,149.9400024,1,1,0.7429840791111778
+Standard Class,Europe,Northern Europe,Reino Unido,Stockport,Home Office,Cameras,Technology,1349,2017-10,Thursday,4.0,1.0,452.0400085,0,0,0.30332292094006214
+Standard Class,USCA,South of  USA,Estados Unidos,Charlotte,Consumer,Shop By Sport,Golf,627,2016-07,Saturday,4.0,3.0,119.9700012,1,0,0.33242678510592555
+First Class,Europe,Southern Europe,Chipre,Nicosia,Consumer,Women's Apparel,Golf,502,2015-07,Thursday,1.0,2.0,100.0,1,1,0.9546125768923917
+Second Class,Europe,Eastern Europe,Rusia,Astracán,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-11,Wednesday,2.0,4.0,199.9199982,1,1,0.7118185134333965
+First Class,Pacific Asia,Southeast Asia,Indonesia,Surabaya,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-12,Monday,1.0,2.0,99.95999908,1,1,0.8960919006659697
+Second Class,Pacific Asia,Eastern Asia,China,Changchun,Home Office,Women's Apparel,Golf,502,2015-10,Tuesday,2.0,5.0,250.0,1,1,0.7576588090317328
+Second Class,Pacific Asia,Southeast Asia,Tailandia,Bangkok,Consumer,Cleats,Apparel,365,2016-03,Wednesday,2.0,3.0,179.9700012,1,1,0.7430961280210937
+Standard Class,LATAM,South America,Colombia,Pereira,Consumer,Water Sports,Fan Shop,1073,2017-02,Friday,4.0,1.0,199.9900055,1,0,0.3489058561766063
+Standard Class,Europe,Western Europe,Alemania,Grevenbroich,Home Office,Men's Footwear,Apparel,403,2015-06,Tuesday,4.0,1.0,129.9900055,0,0,0.30347617027029355
+Standard Class,Europe,Western Europe,Francia,Marseille,Consumer,Fishing,Fan Shop,1004,2015-07,Tuesday,4.0,1.0,399.980011,0,0,0.363792194329985
+First Class,USCA,East of USA,Estados Unidos,New York City,Consumer,Water Sports,Fan Shop,1073,2016-07,Tuesday,1.0,1.0,199.9900055,1,1,0.9371830665195484
+Standard Class,Europe,Northern Europe,Reino Unido,Tamworth,Home Office,Electronics,Outdoors,818,2015-08,Tuesday,4.0,4.0,191.9600067,0,0,0.19023317366650433
+Standard Class,LATAM,Central America,Nicaragua,Granada,Corporate,Camping & Hiking,Fan Shop,957,2017-01,Monday,4.0,1.0,299.980011,1,1,0.6672097533491237
+Standard Class,LATAM,Caribbean,Cuba,Holguín,Consumer,Cleats,Apparel,365,2015-04,Friday,4.0,5.0,299.9500122,1,0,0.27820457547372746
+Same Day,LATAM,South America,Brasil,Blumenau,Consumer,Shop By Sport,Golf,627,2015-02,Monday,0.0,2.0,79.98000336,1,0,0.4274247858437799
+Second Class,LATAM,South America,Brasil,Brasília,Consumer,Women's Apparel,Golf,502,2017-02,Thursday,2.0,4.0,200.0,0,1,0.8304925869823141
+Standard Class,LATAM,Caribbean,República Dominicana,San Francisco de Macorís,Consumer,Cleats,Apparel,365,2017-02,Saturday,4.0,3.0,179.9700012,1,1,0.5723499925487008
+Second Class,Europe,Western Europe,Alemania,Hamburgo,Consumer,Men's Footwear,Apparel,403,2017-07,Saturday,2.0,1.0,129.9900055,1,1,0.7291348935660791
+Second Class,Europe,Western Europe,Francia,Le Havre,Consumer,Camping & Hiking,Fan Shop,957,2015-09,Wednesday,2.0,1.0,299.980011,1,1,0.8676210671174541
+First Class,LATAM,Caribbean,Jamaica,Portmore,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2017-04,Sunday,1.0,1.0,49.97999954,1,1,0.8742413634590394
+First Class,Europe,Western Europe,Francia,Paris,Home Office,Water Sports,Fan Shop,1073,2017-07,Saturday,1.0,1.0,199.9900055,1,1,0.9027256857069993
+First Class,LATAM,Caribbean,Cuba,Holguín,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-05,Saturday,1.0,1.0,49.97999954,1,1,0.9173450837849627
+First Class,LATAM,South America,Brasil,Franca,Consumer,Shop By Sport,Golf,627,2015-02,Monday,1.0,2.0,79.98000336,1,1,0.9400631852632486
+Standard Class,Europe,Western Europe,Francia,Montpellier,Consumer,Women's Apparel,Golf,502,2015-10,Tuesday,4.0,4.0,200.0,0,1,0.5941683151198213
+Standard Class,Africa,North Africa,Marruecos,Sale,Home Office,Shop By Sport,Golf,627,2016-11,Wednesday,4.0,3.0,119.9700012,0,0,0.25144426019539806
+Standard Class,Europe,Northern Europe,Reino Unido,Cardiff,Corporate,Women's Apparel,Golf,502,2017-07,Saturday,4.0,4.0,200.0,1,0,0.2816342929834757
+Second Class,Europe,Southern Europe,España,Madrid,Home Office,Fishing,Fan Shop,1004,2017-06,Tuesday,2.0,1.0,399.980011,1,1,0.7160316834579658
+Standard Class,LATAM,Central America,México,Acayucan,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2017-04,Monday,4.0,1.0,49.97999954,0,0,0.31526347046241915
+Standard Class,Pacific Asia,Southeast Asia,Filipinas,Calamba,Consumer,Cleats,Apparel,365,2016-02,Tuesday,4.0,4.0,239.9600067,1,0,0.3805264401676492
+Standard Class,Europe,Western Europe,Francia,Paris,Home Office,Fishing,Fan Shop,1004,2015-07,Saturday,4.0,1.0,399.980011,0,0,0.24982877530196884
+Standard Class,USCA,East of USA,Estados Unidos,Auburn,Consumer,Men's Footwear,Apparel,403,2016-04,Friday,4.0,1.0,129.9900055,1,0,0.3328001113862223
+Standard Class,LATAM,Central America,El Salvador,Sonsonate,Corporate,Fishing,Fan Shop,1004,2017-03,Thursday,4.0,1.0,399.980011,0,0,0.4002373603900141
+Standard Class,Europe,Western Europe,Alemania,Offenbach,Corporate,Fishing,Fan Shop,1004,2017-06,Thursday,4.0,1.0,399.980011,0,0,0.3265897934261296
+First Class,Europe,Southern Europe,Portugal,Lisbon,Home Office,Women's Apparel,Golf,502,2017-09,Saturday,1.0,5.0,250.0,1,1,0.8883443511008825
+Standard Class,Pacific Asia,Eastern Asia,China,Hengyang,Consumer,Women's Clothing,Apparel,1363,2017-12,Tuesday,4.0,1.0,215.8200073,1,0,0.3319403477872019
+First Class,Europe,Western Europe,Francia,Rennes,Consumer,Women's Apparel,Golf,502,2017-08,Sunday,1.0,3.0,150.0,1,1,0.9435136307656824
+Standard Class,USCA,South of  USA,Estados Unidos,Fayetteville,Corporate,Women's Apparel,Golf,502,2016-05,Saturday,4.0,1.0,50.0,1,0,0.3543600628276587
+Second Class,Pacific Asia,Eastern Asia,China,Mianyang,Consumer,Golf Gloves,Outdoors,775,2015-12,Monday,2.0,1.0,9.989999771,1,1,0.7922814372524576
+Standard Class,Europe,Western Europe,Francia,Lille,Corporate,Men's Footwear,Apparel,403,2017-08,Wednesday,4.0,1.0,129.9900055,1,0,0.3335039176579604
+Standard Class,Pacific Asia,South Asia,India,Jaipur,Consumer,Men's Footwear,Apparel,403,2015-10,Tuesday,4.0,1.0,129.9900055,1,0,0.3603212512155315
+First Class,Pacific Asia,South Asia,Afganistán,Jalalabad,Home Office,Video Games,Discs Shop,1362,2018-01,Sunday,1.0,1.0,39.75,1,1,0.9372816533896976
+Standard Class,LATAM,Central America,El Salvador,San Salvador,Corporate,Water Sports,Fan Shop,1073,2015-04,Tuesday,4.0,1.0,199.9900055,0,0,0.32459992722577224
+Standard Class,Africa,Central Africa,República Democrática del Congo,Kolwezi,Corporate,Girls' Apparel,Golf,564,2016-12,Monday,4.0,4.0,120.0,1,0,0.40818821167120295
+Standard Class,Pacific Asia,West Asia,Turquía,Corum,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-12,Sunday,4.0,1.0,49.97999954,0,0,0.3389855391617553
+Standard Class,Europe,Western Europe,Alemania,Magdeburg,Home Office,Shop By Sport,Golf,627,2015-09,Wednesday,4.0,4.0,159.9600067,0,0,0.3628079072794902
+Standard Class,USCA,South of  USA,Estados Unidos,Richmond,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-05,Monday,4.0,5.0,249.8999939,1,0,0.4557487154162937
+Standard Class,LATAM,Central America,El Salvador,Ilopango,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-01,Tuesday,4.0,4.0,199.9199982,0,0,0.32839194366523583
+Standard Class,LATAM,Caribbean,Cuba,Palma Soriano,Consumer,Women's Apparel,Golf,502,2015-01,Sunday,4.0,1.0,50.0,0,0,0.31661817564999695
+First Class,Europe,Northern Europe,Reino Unido,London,Consumer,Crafts,Apparel,1353,2017-11,Saturday,1.0,1.0,461.480011,1,1,0.9411366326023968
+Standard Class,Africa,West Africa,Nigeria,Lagos,Consumer,Cleats,Apparel,365,2016-08,Monday,4.0,1.0,59.99000168,1,0,0.327050204812782
+Standard Class,Europe,Northern Europe,Reino Unido,Redditch,Corporate,Shop By Sport,Golf,642,2015-09,Saturday,4.0,4.0,120.0,1,0,0.3160564154343912
+Standard Class,Europe,Western Europe,Francia,Thionville,Consumer,Cleats,Apparel,365,2015-07,Wednesday,4.0,2.0,119.9800034,0,0,0.3776887082820902
+Same Day,Africa,West Africa,Nigeria,Lagos,Consumer,Camping & Hiking,Fan Shop,957,2016-09,Wednesday,0.0,1.0,299.980011,0,0,0.42061411400334
+Standard Class,Pacific Asia,South Asia,Irán,Shiraz,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-11,Tuesday,4.0,1.0,49.97999954,0,0,0.29882742786132
+Second Class,Europe,Western Europe,Alemania,Sindelfingen,Home Office,Men's Footwear,Apparel,403,2015-09,Saturday,2.0,1.0,129.9900055,1,1,0.7298779620645013
+Second Class,Pacific Asia,Eastern Asia,Hong Kong,Kowloon,Corporate,Garden,Outdoors,1355,2017-11,Thursday,2.0,1.0,532.5800171,0,1,0.7879812542814557
+Standard Class,LATAM,Central America,México,Culiacán,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-04,Tuesday,4.0,1.0,49.97999954,1,0,0.37263439437190404
+Second Class,Pacific Asia,Southeast Asia,Indonesia,Mataram,Corporate,Water Sports,Fan Shop,1073,2015-11,Sunday,2.0,1.0,199.9900055,0,1,0.7163990120916999
+Second Class,USCA,West of USA,Estados Unidos,Moreno Valley,Corporate,Fishing,Fan Shop,1004,2016-07,Sunday,2.0,1.0,399.980011,1,1,0.6996868171499191
+Standard Class,Pacific Asia,Oceania,Australia,Perth,Home Office,Cleats,Apparel,365,2015-12,Monday,4.0,4.0,239.9600067,0,0,0.35984789563152253
+Second Class,USCA,US Center,Estados Unidos,Woodstock,Home Office,Women's Apparel,Golf,502,2016-05,Monday,2.0,1.0,50.0,1,1,0.7114728488824072
+Second Class,USCA,US Center,Estados Unidos,Chicago,Corporate,Shop By Sport,Golf,627,2016-07,Sunday,2.0,3.0,119.9700012,1,1,0.7366929907320542
+Standard Class,Pacific Asia,Eastern Asia,Japón,Tokio,Consumer,Fishing,Fan Shop,1004,2016-02,Friday,4.0,1.0,399.980011,1,0,0.4389159692979927
+First Class,LATAM,South America,Brasil,Brasília,Home Office,Cleats,Apparel,365,2017-03,Saturday,1.0,4.0,239.9600067,1,1,0.9656686743497999
+Second Class,Pacific Asia,Southeast Asia,Vietnam,Ho Chi Minh City,Consumer,Women's Apparel,Golf,502,2016-02,Saturday,2.0,2.0,100.0,1,1,0.7754350282133539
+Standard Class,LATAM,Central America,Honduras,Tegucigalpa,Consumer,Men's Footwear,Apparel,403,2017-04,Thursday,4.0,1.0,129.9900055,0,0,0.3360383183794162
+Standard Class,Europe,Western Europe,Alemania,Pforzheim,Corporate,Cardio Equipment,Footwear,191,2017-07,Saturday,4.0,5.0,499.9500122,0,0,0.33256204857550614
+Standard Class,Europe,Western Europe,Francia,Avignon,Corporate,Shop By Sport,Golf,627,2017-06,Sunday,4.0,5.0,199.9499969,0,0,0.332213062703684
+Second Class,USCA,East of USA,Estados Unidos,Philadelphia,Home Office,Fishing,Fan Shop,1004,2016-04,Sunday,2.0,1.0,399.980011,1,1,0.7464213898320133
+Standard Class,Pacific Asia,West Asia,Turquía,Bursa,Consumer,Men's Footwear,Apparel,403,2016-12,Tuesday,4.0,1.0,129.9900055,1,0,0.24999136484476833
+Standard Class,Europe,Western Europe,Francia,Fontenay-sous-Bois,Home Office,Fishing,Fan Shop,1004,2017-09,Monday,4.0,1.0,399.980011,0,0,0.3577860096413503
+Second Class,Pacific Asia,South Asia,Afganistán,Kabul,Consumer,Cleats,Apparel,365,2015-12,Saturday,2.0,4.0,239.9600067,1,1,0.7150527601426088
+Standard Class,LATAM,Caribbean,Cuba,Bayamo,Home Office,Men's Footwear,Apparel,403,2015-04,Sunday,4.0,1.0,129.9900055,0,0,0.30466839557281666
+Standard Class,Africa,West Africa,Níger,Niamey,Corporate,Camping & Hiking,Fan Shop,957,2017-01,Wednesday,4.0,1.0,299.980011,1,0,0.3189196577592719
+Standard Class,Pacific Asia,Southeast Asia,Singapur,Singapur,Consumer,Women's Apparel,Golf,502,2015-12,Tuesday,4.0,4.0,200.0,0,0,0.3047476815108149
+Standard Class,LATAM,Caribbean,República Dominicana,Santo Domingo,Consumer,Water Sports,Fan Shop,1073,2017-04,Saturday,4.0,1.0,199.9900055,0,0,0.3139470174393857
+Standard Class,LATAM,Central America,El Salvador,San Salvador,Corporate,Men's Footwear,Apparel,403,2017-01,Thursday,4.0,1.0,129.9900055,0,0,0.3425299390665809
+Standard Class,Europe,Western Europe,Francia,Neuilly-sur-Seine,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2017-09,Friday,4.0,5.0,249.8999939,0,0,0.3508736233722662
+Standard Class,USCA,East of USA,Estados Unidos,Long Beach,Home Office,Women's Apparel,Golf,502,2016-06,Friday,4.0,3.0,150.0,0,0,0.27826787185239354
+Second Class,Pacific Asia,Oceania,Australia,Perth,Corporate,Fishing,Fan Shop,1004,2015-10,Saturday,2.0,1.0,399.980011,1,1,0.7884150862467736
+Standard Class,Pacific Asia,South Asia,India,Kanpur,Consumer,Accessories,Outdoors,886,2015-12,Thursday,4.0,2.0,49.97999954,0,0,0.358086954869501
+Standard Class,USCA,South of  USA,Estados Unidos,Nashville,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2016-07,Saturday,4.0,5.0,249.8999939,0,0,0.3191999647574796
+First Class,Africa,North Africa,Marruecos,Kenitra,Consumer,Fishing,Fan Shop,1004,2016-08,Thursday,1.0,1.0,399.980011,1,1,0.8932488484172663
+Standard Class,USCA,West of USA,Estados Unidos,Kent,Consumer,Men's Footwear,Apparel,403,2016-04,Monday,4.0,1.0,129.9900055,0,0,0.3451941329227458
+Second Class,LATAM,Central America,México,León,Corporate,Cleats,Apparel,365,2017-05,Wednesday,2.0,3.0,179.9700012,1,1,0.6505817548578149
+Standard Class,Pacific Asia,West Asia,Jordania,Amman,Consumer,Fishing,Fan Shop,1004,2016-11,Thursday,4.0,1.0,399.980011,0,0,0.3540053773182669
+Standard Class,Pacific Asia,Oceania,Australia,Gold Coast,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-03,Tuesday,4.0,3.0,149.9400024,0,0,0.3793663618551427
+Standard Class,Pacific Asia,South Asia,India,Srinagar,Consumer,Video Games,Discs Shop,1362,2018-01,Saturday,4.0,1.0,39.75,0,0,0.39913097802981207
+Standard Class,Pacific Asia,South Asia,India,Hubli,Corporate,Sporting Goods,Fitness,1360,2017-12,Monday,4.0,1.0,327.75,0,0,0.37871019276604584
+Second Class,USCA,East of USA,Estados Unidos,Everett,Corporate,Girls' Apparel,Golf,565,2016-07,Friday,2.0,4.0,280.0,1,1,0.6234604780554922
+Same Day,LATAM,Central America,El Salvador,Apopa,Consumer,Electronics,Footwear,282,2015-01,Saturday,0.0,2.0,63.97999954,1,1,0.6676026597280477
+Same Day,Europe,Western Europe,Alemania,Bielefeld,Corporate,Fishing,Fan Shop,1004,2015-06,Sunday,0.0,1.0,399.980011,0,0,0.41563178846927673
+Standard Class,USCA,East of USA,Estados Unidos,Holyoke,Consumer,Women's Apparel,Golf,502,2016-05,Saturday,4.0,4.0,200.0,0,0,0.30278110159856103
+Standard Class,LATAM,Central America,Nicaragua,Granada,Corporate,Shop By Sport,Golf,642,2017-03,Wednesday,4.0,1.0,30.0,0,1,0.7324522026777257
+Standard Class,Pacific Asia,South Asia,India,Gorakhpur,Consumer,Camping & Hiking,Fan Shop,957,2016-03,Monday,4.0,1.0,299.980011,1,0,0.37848946953037993
+Second Class,LATAM,Central America,México,Mexico City,Corporate,Water Sports,Fan Shop,1073,2015-05,Thursday,2.0,1.0,199.9900055,0,1,0.6922681687483814
+Second Class,Europe,Southern Europe,Italia,Milan,Corporate,Water Sports,Fan Shop,1073,2015-07,Tuesday,2.0,1.0,199.9900055,1,1,0.6455981708939856
+First Class,USCA,East of USA,Estados Unidos,New York City,Consumer,Shop By Sport,Golf,627,2016-06,Wednesday,1.0,4.0,159.9600067,1,1,0.952886259248193
+Standard Class,LATAM,Central America,Guatemala,Petapa,Consumer,Men's Footwear,Apparel,403,2015-04,Saturday,4.0,1.0,129.9900055,1,0,0.2730315245445539
+Standard Class,Europe,Southern Europe,Italia,Novara,Home Office,Fishing,Fan Shop,1004,2017-06,Friday,4.0,1.0,399.980011,0,0,0.36284845346021855
+First Class,Pacific Asia,Southeast Asia,Indonesia,Yakarta,Corporate,Men's Footwear,Apparel,403,2015-12,Saturday,1.0,1.0,129.9900055,1,1,0.9397073625795817
+Standard Class,Europe,Northern Europe,Reino Unido,Farnborough,Corporate,Men's Footwear,Apparel,403,2015-07,Saturday,4.0,1.0,129.9900055,0,0,0.2864940486603622
+First Class,LATAM,Central America,El Salvador,Apopa,Consumer,Fishing,Fan Shop,1004,2017-04,Sunday,1.0,1.0,399.980011,1,1,0.9617189767599199
+First Class,Europe,Western Europe,Francia,Rillieux-la-Pape,Consumer,Shop By Sport,Golf,627,2015-10,Wednesday,1.0,2.0,79.98000336,1,1,0.9516090688604376
+Second Class,LATAM,Central America,México,La Paz,Consumer,Women's Apparel,Golf,502,2017-02,Friday,2.0,2.0,100.0,0,1,0.7492361788788935
+First Class,Pacific Asia,Southeast Asia,Indonesia,Surabaya,Consumer,Cleats,Apparel,365,2016-01,Friday,1.0,1.0,59.99000168,1,1,0.8980359130106468
+Standard Class,Pacific Asia,Oceania,Nueva Zelanda,Auckland,Corporate,Electronics,Footwear,276,2016-03,Thursday,4.0,2.0,63.97999954,0,0,0.2771833666918237
+Standard Class,Africa,North Africa,Egipto,Cairo,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2016-12,Wednesday,4.0,4.0,199.9199982,1,0,0.3730356431245558
+First Class,LATAM,Central America,El Salvador,Mejicanos,Corporate,Cleats,Apparel,365,2015-01,Thursday,1.0,4.0,239.9600067,1,1,0.9454532008776397
+Standard Class,Europe,Western Europe,Alemania,Hamburgo,Consumer,Fishing,Fan Shop,1004,2017-08,Wednesday,4.0,1.0,399.980011,1,0,0.36229854381876186
+Standard Class,Pacific Asia,Eastern Asia,China,Gongzhuling,Home Office,Music,Discs Shop,1358,2017-11,Saturday,4.0,1.0,260.6499939,0,0,0.3796703816608606
+Second Class,Pacific Asia,Oceania,Australia,Sydney,Consumer,Cardio Equipment,Footwear,172,2016-01,Thursday,2.0,3.0,90.0,1,1,0.6485556762498962
+Standard Class,LATAM,Central America,México,Mexico City,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2017-03,Monday,4.0,3.0,149.9400024,0,0,0.33693601870677947
+Standard Class,USCA,West of USA,Estados Unidos,Louisville,Home Office,Water Sports,Fan Shop,1073,2016-04,Thursday,4.0,1.0,199.9900055,0,0,0.22961652755017575
+Standard Class,USCA,US Center,Estados Unidos,Springfield,Home Office,Women's Apparel,Golf,502,2016-04,Saturday,4.0,3.0,150.0,1,0,0.3189511391124944
+Second Class,LATAM,Central America,México,Obregón,Consumer,Men's Footwear,Apparel,403,2017-01,Sunday,2.0,1.0,129.9900055,1,1,0.7417834328953528
+Second Class,Europe,Southern Europe,Portugal,Lisbon,Consumer,Camping & Hiking,Fan Shop,957,2015-09,Friday,2.0,1.0,299.980011,1,1,0.5883148437216341
+Standard Class,USCA,East of USA,Estados Unidos,Akron,Consumer,Cleats,Apparel,365,2016-08,Saturday,4.0,5.0,299.9500122,0,0,0.2973231973684488
+Standard Class,Europe,Western Europe,Francia,Schiltigheim,Consumer,Girls' Apparel,Golf,572,2015-06,Sunday,4.0,3.0,119.9700012,1,0,0.28901327576047764
+Standard Class,Europe,Western Europe,Alemania,Bremen,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-08,Wednesday,4.0,5.0,249.8999939,0,0,0.3245514345126417
+First Class,USCA,US Center,Estados Unidos,Champaign,Consumer,Camping & Hiking,Fan Shop,957,2016-05,Saturday,1.0,1.0,299.980011,1,1,0.932117039168342
+Second Class,Europe,Southern Europe,Italia,Milan,Consumer,Consumer Electronics,Technology,1352,2017-11,Saturday,2.0,1.0,252.8800049,1,1,0.6572219514692604
+Second Class,LATAM,Caribbean,República Dominicana,Santiago de los Caballeros,Consumer,Water Sports,Fan Shop,1073,2015-03,Monday,2.0,1.0,199.9900055,1,1,0.736389746120108
+Standard Class,LATAM,Central America,México,Mexico City,Home Office,Men's Footwear,Apparel,403,2015-03,Sunday,4.0,1.0,129.9900055,1,0,0.31514024943252467
+Standard Class,Africa,West Africa,Senegal,Thies Nones,Corporate,Women's Apparel,Golf,502,2016-09,Thursday,4.0,4.0,200.0,0,0,0.2232911437885966
+Standard Class,Africa,Central Africa,Camerún,Ngaoundere,Consumer,Women's Apparel,Golf,502,2016-12,Saturday,4.0,5.0,250.0,0,0,0.28201883585216037
+Second Class,Pacific Asia,West Asia,Turquía,Estambul,Corporate,Men's Footwear,Apparel,403,2016-12,Saturday,2.0,1.0,129.9900055,1,1,0.6567215058362174
+Standard Class,LATAM,Central America,El Salvador,Cuscatancingo,Corporate,Cleats,Apparel,365,2017-06,Saturday,4.0,2.0,119.9800034,0,0,0.3245379542866284
+Second Class,Pacific Asia,Oceania,Australia,Brisbane,Home Office,Fishing,Fan Shop,1004,2015-12,Tuesday,2.0,1.0,399.980011,1,1,0.7335068626719611
+Same Day,Europe,Eastern Europe,Ucrania,Ivano-Frankivs'k,Consumer,Hockey,Fitness,134,2016-12,Friday,0.0,5.0,125.0,0,0,0.4922092900472488
+First Class,Europe,Southern Europe,Italia,Venice,Corporate,Cardio Equipment,Footwear,172,2015-10,Tuesday,1.0,5.0,150.0,1,1,0.9404424676058868
+Standard Class,Pacific Asia,South Asia,India,Bhubaneswar,Home Office,Golf Balls,Outdoors,793,2016-01,Monday,4.0,2.0,29.97999954,1,0,0.3657115847602795
+Standard Class,Europe,Western Europe,Alemania,Hanover,Corporate,Baby,Apparel,1347,2017-10,Saturday,4.0,1.0,59.08000183,1,0,0.27018910963331244
+Same Day,LATAM,Central America,México,Zapopan,Home Office,Shop By Sport,Golf,627,2017-04,Monday,0.0,3.0,119.9700012,0,0,0.4344328588698152
+First Class,LATAM,Central America,Honduras,San Pedro Sula,Corporate,Men's Footwear,Apparel,403,2017-03,Saturday,1.0,1.0,129.9900055,1,1,0.9354124287259695
+Standard Class,Europe,Western Europe,Francia,Fontenay-aux-Roses,Corporate,Cardio Equipment,Footwear,191,2017-06,Wednesday,4.0,1.0,99.98999786,0,0,0.3506161292622196
+Second Class,Europe,Northern Europe,Reino Unido,Dudley,Corporate,Water Sports,Fan Shop,1073,2015-08,Saturday,2.0,1.0,199.9900055,0,1,0.6839111733266324
+Second Class,Pacific Asia,Oceania,Australia,Newcastle,Consumer,Men's Footwear,Apparel,403,2016-02,Tuesday,2.0,1.0,129.9900055,1,1,0.6512954040861733
+Standard Class,Europe,Eastern Europe,Bulgaria,Sofia,Consumer,Women's Apparel,Golf,502,2016-10,Thursday,4.0,5.0,250.0,1,0,0.35199804113484146
+Standard Class,Africa,West Africa,Nigeria,Lagos,Home Office,Women's Apparel,Golf,502,2016-09,Friday,4.0,3.0,150.0,0,0,0.3092053678602762
+Standard Class,USCA,South of  USA,Estados Unidos,Charlotte,Consumer,Camping & Hiking,Fan Shop,957,2016-07,Sunday,4.0,1.0,299.980011,0,0,0.3339055741105213
+Standard Class,LATAM,Central America,Honduras,San Pedro Sula,Home Office,Cleats,Apparel,365,2015-04,Monday,4.0,4.0,239.9600067,0,0,0.3067406560572915
+First Class,USCA,US Center,Estados Unidos,Milwaukee,Corporate,Fishing,Fan Shop,1004,2016-06,Tuesday,1.0,1.0,399.980011,1,1,0.9282176951267291
+First Class,LATAM,Central America,México,Miguel Hidalgo,Consumer,Cleats,Apparel,365,2017-05,Saturday,1.0,2.0,119.9800034,1,1,0.929074310282601
+Second Class,Africa,North Africa,Egipto,Alexandria,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2016-09,Sunday,2.0,4.0,199.9199982,1,1,0.6633493624797517
+Standard Class,USCA,East of USA,Estados Unidos,New York City,Corporate,Men's Footwear,Apparel,403,2016-07,Sunday,4.0,1.0,129.9900055,0,0,0.34035457781980083
+First Class,USCA,East of USA,Estados Unidos,Columbia,Corporate,Accessories,Outdoors,897,2016-08,Sunday,1.0,4.0,99.95999908,1,1,0.9521532138030695
+Second Class,Pacific Asia,West Asia,Israel,Tel Aviv,Corporate,Shop By Sport,Golf,627,2016-11,Wednesday,2.0,3.0,119.9700012,1,1,0.8143392232428889
+Standard Class,Europe,Western Europe,Francia,Lyon,Corporate,Camping & Hiking,Fan Shop,957,2015-07,Monday,4.0,1.0,299.980011,0,0,0.2434963913094885
+Same Day,USCA,East of USA,Estados Unidos,Philadelphia,Consumer,Water Sports,Fan Shop,1073,2016-04,Sunday,0.0,1.0,199.9900055,1,0,0.4286446697669898
+Standard Class,Europe,Western Europe,Alemania,Wuppertal,Consumer,Camping & Hiking,Fan Shop,957,2015-10,Friday,4.0,1.0,299.980011,0,0,0.3654869999569785
+Standard Class,Europe,Western Europe,Francia,Castres,Corporate,Indoor/Outdoor Games,Fan Shop,1014,2015-08,Monday,4.0,3.0,149.9400024,0,0,0.34851274069974175
+First Class,Pacific Asia,South Asia,Pakistán,Lahore,Corporate,Water Sports,Fan Shop,1073,2015-12,Monday,1.0,1.0,199.9900055,1,1,0.946129333843122
+First Class,Pacific Asia,Southeast Asia,Indonesia,Yakarta,Corporate,Electronics,Outdoors,835,2015-12,Thursday,1.0,5.0,159.9499969,1,1,0.9543697412390375
+Standard Class,Europe,Eastern Europe,Polonia,Warsaw,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-09,Tuesday,4.0,4.0,199.9199982,0,0,0.18584330666763782
+First Class,Europe,Eastern Europe,Ucrania,Kramators'k,Consumer,Camping & Hiking,Fan Shop,957,2016-09,Monday,1.0,1.0,299.980011,1,1,0.9449557775820985
+First Class,Europe,Western Europe,Francia,Nancy,Consumer,Women's Apparel,Golf,502,2015-10,Thursday,1.0,1.0,50.0,0,1,0.9474418494487783
+Standard Class,Africa,East Africa,Zambia,Lusaka,Consumer,Cleats,Apparel,365,2016-09,Sunday,4.0,5.0,299.9500122,0,1,0.5030032895152863
+Standard Class,LATAM,Central America,El Salvador,Mejicanos,Corporate,Water Sports,Fan Shop,1073,2017-05,Tuesday,4.0,1.0,199.9900055,1,0,0.3096689815967171
+Standard Class,Pacific Asia,Eastern Asia,China,Weifang,Consumer,Women's Apparel,Golf,502,2016-01,Sunday,4.0,3.0,150.0,1,0,0.34607579926160326
+Second Class,LATAM,Central America,México,Morelia,Home Office,Indoor/Outdoor Games,Fan Shop,1014,2015-03,Sunday,2.0,1.0,49.97999954,1,1,0.6754879881198453
+Standard Class,Africa,West Africa,Nigeria,Maiduguri,Corporate,Camping & Hiking,Fan Shop,957,2016-11,Saturday,4.0,1.0,299.980011,0,0,0.28667040402847976
+First Class,LATAM,South America,Argentina,Esquina,Corporate,Cardio Equipment,Footwear,191,2015-03,Tuesday,1.0,3.0,299.9700012,1,1,0.9358373188826858
+Same Day,Pacific Asia,West Asia,Siria,Homs,Consumer,Water Sports,Fan Shop,1073,2016-12,Tuesday,0.0,1.0,199.9900055,1,0,0.37916868094065076
+Second Class,Europe,Western Europe,Alemania,Celle,Consumer,Shop By Sport,Golf,627,2017-07,Monday,2.0,2.0,79.98000336,1,1,0.7512536435550319
+Second Class,Europe,Southern Europe,Italia,Marsala,Corporate,Books,Book Shop,1346,2017-10,Wednesday,2.0,1.0,31.07999992,1,1,0.818707393414903
+Second Class,LATAM,South America,Brasil,Dourados,Consumer,Shop By Sport,Golf,627,2017-06,Saturday,2.0,2.0,79.98000336,0,1,0.7432695184957081
+Standard Class,Pacific Asia,Southeast Asia,Indonesia,Pekanbaru,Home Office,Accessories,Outdoors,893,2016-03,Sunday,4.0,4.0,99.95999908,0,0,0.3083316092644762
+Same Day,Europe,Eastern Europe,Ucrania,Ivano-Frankivs'k,Consumer,Water Sports,Fan Shop,1073,2016-12,Friday,0.0,1.0,199.9900055,0,0,0.4455874789917714
+Second Class,USCA,West of USA,Estados Unidos,Parker,Consumer,Electronics,Footwear,282,2016-06,Monday,2.0,2.0,63.97999954,1,1,0.8037745154779593
+Standard Class,Pacific Asia,South Asia,Afganistán,Kandahar,Consumer,Water Sports,Fan Shop,1073,2015-11,Monday,4.0,1.0,199.9900055,1,0,0.28917274103084367
+Standard Class,Europe,Southern Europe,España,Granada,Consumer,Cameras,Technology,1349,2017-10,Saturday,4.0,1.0,452.0400085,0,1,0.5463480761819699
+Standard Class,Europe,Northern Europe,Reino Unido,Walsall,Consumer,Cardio Equipment,Footwear,191,2017-09,Friday,4.0,2.0,199.9799957,0,0,0.3026421322486472
+Standard Class,Europe,Western Europe,Francia,Marseille,Home Office,Cleats,Apparel,365,2017-06,Saturday,4.0,5.0,299.9500122,1,0,0.3317643664422715
+Standard Class,USCA,West of USA,Estados Unidos,Peoria,Corporate,Cleats,Apparel,365,2016-06,Thursday,4.0,2.0,119.9800034,0,0,0.32404135949265833
+Standard Class,Pacific Asia,South Asia,Pakistán,Rawalpindi,Consumer,Girls' Apparel,Golf,565,2016-02,Saturday,4.0,4.0,280.0,0,0,0.3216737573344963
+Second Class,LATAM,Central America,El Salvador,Apopa,Consumer,Cleats,Apparel,365,2017-02,Thursday,2.0,2.0,119.9800034,0,1,0.8449182675780973
+Standard Class,Africa,West Africa,Níger,Niamey,Consumer,Men's Footwear,Apparel,403,2016-09,Monday,4.0,1.0,129.9900055,1,0,0.2713645332883502
+Standard Class,LATAM,Central America,Nicaragua,Estelí,Consumer,Men's Footwear,Apparel,403,2015-01,Friday,4.0,1.0,129.9900055,0,0,0.3971409469745103
+Second Class,LATAM,South America,Argentina,Buenos Aires,Corporate,Men's Footwear,Apparel,403,2017-02,Saturday,2.0,1.0,129.9900055,0,1,0.7193588570708861
+Standard Class,Europe,Western Europe,Francia,Nice,Corporate,Cardio Equipment,Footwear,191,2017-09,Tuesday,4.0,2.0,199.9799957,0,0,0.23154934633935617
+First Class,Europe,Southern Europe,España,Granada,Corporate,Camping & Hiking,Fan Shop,957,2015-09,Sunday,1.0,1.0,299.980011,1,1,0.9723678893816479
+Standard Class,Pacific Asia,Southeast Asia,Singapur,Singapur,Consumer,Women's Apparel,Golf,502,2016-01,Saturday,4.0,1.0,50.0,1,0,0.3213638642184133
+Standard Class,Pacific Asia,Eastern Asia,Japón,Hirakata,Corporate,Men's Footwear,Apparel,403,2016-01,Saturday,4.0,1.0,129.9900055,1,0,0.27473305705785217
+Standard Class,Africa,East Africa,Somalia,Kismaayo,Corporate,Cleats,Apparel,365,2016-11,Wednesday,4.0,3.0,179.9700012,1,0,0.3225532748092451
+First Class,Europe,Western Europe,Francia,Paris,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2015-09,Monday,1.0,1.0,49.97999954,1,1,0.9074937170916854
+First Class,Pacific Asia,Oceania,Australia,Perth,Corporate,Consumer Electronics,Technology,1352,2017-12,Sunday,1.0,1.0,252.8800049,1,1,0.9456744328730511
+Standard Class,Pacific Asia,Southeast Asia,Filipinas,Manila,Consumer,Indoor/Outdoor Games,Fan Shop,1014,2016-03,Friday,4.0,2.0,99.95999908,1,0,0.31100352892424415
+Standard Class,Pacific Asia,South Asia,India,Meerut,Home Office,Cleats,Apparel,365,2016-01,Thursday,4.0,5.0,299.9500122,1,0,0.3398902981500482
+Standard Class,LATAM,Central America,Nicaragua,Managua,Corporate,Cleats,Apparel,365,2017-05,Friday,4.0,3.0,179.9700012,0,0,0.3373059792744941
+Standard Class,USCA,US Center,Estados Unidos,Milwaukee,Consumer,Cleats,Apparel,365,2016-08,Thursday,4.0,1.0,59.99000168,0,0,0.31313824197958384

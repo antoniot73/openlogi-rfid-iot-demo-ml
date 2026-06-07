@@ -1,0 +1,60 @@
+{
+  "accuracy": 0.68888,
+  "precision": 0.8265552868762366,
+  "recall": 0.5481049562682215,
+  "f1_score": 0.6591287579980717,
+  "roc_auc": 0.7302074545623721,
+  "confusion_matrix": {
+    "labels": [
+      0,
+      1
+    ],
+    "matrix": [
+      [
+        4851,
+        789
+      ],
+      [
+        3100,
+        3760
+      ]
+    ]
+  },
+  "created_at_utc": "2026-06-07T08:38:37.363661+00:00",
+  "model_name": "late_delivery_risk_logistic_regression",
+  "target_column": "late_delivery_risk",
+  "train_rows": 37500,
+  "test_rows": 12500,
+  "total_rows": 50000,
+  "positive_class_rate_total": 0.54884,
+  "positive_class_rate_train": 0.5488533333333333,
+  "positive_class_rate_test": 0.5488,
+  "features": {
+    "categorical": [
+      "shipping_mode",
+      "market",
+      "order_region",
+      "order_country",
+      "order_city",
+      "customer_segment",
+      "category_name",
+      "department_name",
+      "product_id",
+      "order_month",
+      "order_day_of_week"
+    ],
+    "numerical": [
+      "days_shipping_scheduled",
+      "quantity",
+      "sales"
+    ]
+  },
+  "leakage_columns_excluded": [
+    "delivery_status",
+    "days_shipping_real",
+    "shipping_date",
+    "order_status",
+    "shipment_delay_delta"
+  ],
+  "decision_threshold": 0.5
+}
